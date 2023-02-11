@@ -1,0 +1,488 @@
+/* Give Forms */
+#give-recurring-form .form-row input[type=email], #give-recurring-form .form-row input[type=password], #give-recurring-form .form-row input[type=tel], #give-recurring-form .form-row input[type=text],
+#give-recurring-form .form-row input[type=url], #give-recurring-form .form-row select, #give-recurring-form .form-row textarea, form.give-form .form-row input[type=email], form.give-form .form-row input[type=password],
+form.give-form .form-row input[type=tel], form.give-form .form-row input[type=text], form.give-form .form-row input[type=url], form.give-form .form-row select, form.give-form .form-row textarea,
+form[id*=give-form] .form-row input[type=email], form[id*=give-form] .form-row input[type=password], form[id*=give-form] .form-row input[type=tel], form[id*=give-form] .form-row input[type=text],
+form[id*=give-form] .form-row input[type=url], form[id*=give-form] .form-row select, form[id*=give-form] .form-row textarea{
+    display: block;
+    width: 100%;
+    height: 55px;
+    font-size: 14px;
+    color: #848484;
+    line-height: normal;
+    padding: 0px 15px;
+    font-weight: 400;
+    background: transparent;
+    border: 1px solid #d9d9d9;
+    border-radius: 0;
+    transition: all 500ms ease;
+    -webkit-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+}
+#give-recurring-form .form-row input[type=email]:focus, #give-recurring-form .form-row input[type=password]:focus, #give-recurring-form .form-row input[type=tel]:focus, #give-recurring-form .form-row input[type=text]:focus,
+#give-recurring-form .form-row input[type=url]:focus, #give-recurring-form .form-row select:focus, #give-recurring-form .form-row textarea:focus, form.give-form .form-row input[type=email]:focus,
+form.give-form .form-row input[type=password]:focus, form.give-form .form-row input[type=tel]:focus, form.give-form .form-row input[type=text]:focus, form.give-form .form-row input[type=url]:focus,
+form.give-form .form-row select:focus, form.give-form .form-row textarea:focus, form[id*=give-form] .form-row input[type=email]:focus, form[id*=give-form] .form-row input[type=password]:focus,
+form[id*=give-form] .form-row input[type=tel]:focus, form[id*=give-form] .form-row input[type=text]:focus, form[id*=give-form] .form-row input[type=url]:focus,
+form[id*=give-form] .form-row select:focus, form[id*=give-form] .form-row textarea:focus{
+    background-color: transparent;
+    border: 1px solid #d6a77b;
+}
+#give-recurring-form .form-row textarea, form.give-form .form-row textarea, form[id*=give-form] .form-row textarea{
+    height: auto;
+    padding: 15px;
+}
+form[id*=give-form] #give-final-total-wrap .give-donation-total-label,
+form[id*=give-form] .give-donation-amount .give-currency-symbol.give-currency-position-before{
+    background-color: #d6a77b;
+    color: #fff;
+}
+form[id*=give-form] #give-final-total-wrap .give-final-total-amount{
+    background-color: #fff;
+}
+form[id*=give-form] .give-donation-amount .give-currency-symbol,
+form[id*=give-form] #give-final-total-wrap .give-donation-total-label{
+    font-size: 16px;
+}
+#give-recurring-form h3.give-section-break, #give-recurring-form h4.give-section-break, #give-recurring-form legend, form.give-form h3.give-section-break,
+form.give-form h4.give-section-break, form.give-form legend, form[id*=give-form] h3.give-section-break, form[id*=give-form] h4.give-section-break, form[id*=give-form] legend{
+    font-size: 16px;
+    color: #141433;
+}
+form[id*=give-form] #give-gateway-radio-list>li input[type=radio] {
+    margin: 0 .25em 0 0;
+    outline: none;
+    width: 20px;
+    display: inline;
+    height: 20px;
+    display: inline-flex;
+    margin-right: 10px;
+}
+form[id*=give-form] #give-gateway-radio-list>li label.give-gateway-option{
+    line-height: 1.5;
+}
+.widget #give-recurring-form .form-row input[type=email]:focus, .widget #give-recurring-form .form-row input[type=password]:focus, .widget #give-recurring-form .form-row input[type=tel]:focus, .widget #give-recurring-form .form-row input[type=text]:focus,
+.widget #give-recurring-form .form-row input[type=url]:focus, .widget #give-recurring-form .form-row select:focus, .widget #give-recurring-form .form-row textarea:focus, .widget form.give-form .form-row input[type=email]:focus, .widget form.give-form .form-row input[type=password]:focus,
+.widget form.give-form .form-row input[type=tel]:focus, .widget form.give-form .form-row input[type=text]:focus, .widget form.give-form .form-row input[type=url]:focus, .widget form.give-form .form-row select:focus, .widget form.give-form .form-row textarea:focus, .widget form[id*=give-form] .form-row input[type=email]:focus,
+.widget form[id*=give-form] .form-row input[type=password]:focus, .widget form[id*=give-form] .form-row input[type=tel]:focus, .widget form[id*=give-form] .form-row input[type=text]:focus, .widget form[id*=give-form] .form-row input[type=url]:focus,
+.widget form[id*=give-form] .form-row select:focus, .widget form[id*=give-form] .form-row textarea:focus{
+    background-color: #fff;
+}
+[id*=give-form].give-fl-form input.give-fl-input, [id*=give-form].give-fl-form select.give-fl-select, [id*=give-form].give-fl-form textarea.give-fl-textarea{
+    font-size: 14px;
+}
+/* Give Archive */
+.sigma_donation {
+    margin-bottom: 30px;
+    transition: 0.3s;
+}
+.sigma_donation .donation-post-thumb{
+    position: relative;
+    overflow: hidden;
+}
+.sigma_donation .donation-post-thumb img{
+    transition: .3s;
+    width: 100%;
+}
+.sigma_donation .donation-post-thumb:hover img {
+    transform: scale(1.1);
+}
+.sigma-donation-style-1 .sigma_donation-progress {
+    background: #f1f1f1;
+}
+.sigma-donation-style-1 .sigma_donation-progress .progress-bar {
+    height: 8px;
+    background: #d6a77b;
+}
+.sigma-donation-style-1 .sigma_donation .sigma_post-body {
+    padding: 30px;
+    border: 1px solid #efefef;
+    width: 100%;
+    position: relative;
+    background: #fff;
+    z-index: 1;
+}
+.sigma-donation-style-1 .sigma_donation .sigma_post-body .sigma_donation-amount {
+    text-align: center;
+    overflow: hidden;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #d9d9d9;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+.sigma-donation-style-1 .sigma_donation .sigma_post-body .sigma_donation-amount .sigma_donation-amount-item {
+    flex: 1;
+}
+.sigma-donation-style-1 .sigma_donation .sigma_post-body .sigma_donation-amount .sigma_donation-amount-item + .sigma_donation-amount-item {
+    border-left: 1px solid #d9d9d9;
+}
+.sigma-donation-style-1 .sigma_donation .sigma_post-body .sigma_donation-amount .sigma_donation-amount-item p {
+    color: #777;
+    font-weight: 600;
+    margin: 0;
+}
+.sigma-donation-style-1 .sigma_donation .sigma_post-body .sigma_post-desc p {
+    margin: 20px 0;
+}
+.sigma-donation-style-1 .sigma_donation .sigma_post-body .sigma_donation-amount .sigma_donation-amount-item span {
+    color: #d6a77b;
+    font-size: 18px;
+}
+.sigma-donation-style-1 .sigma_donation .sigma_post-body .sigma_post-desc .sigma_btn-custom.light {
+    background: transparent;
+}
+.sigma-donation-style-1 .sigma_donation .sigma_post-body .sigma_post-desc .sigma_btn-custom.light:before {
+    background: #1c1c1c;
+}
+.give-wrap .give-card{
+    box-shadow: 1px 1px 33px 0px rgba(83, 95, 159, 0.15);
+    border: 0;
+}
+.give-wrap .give-card:active, .give-wrap .give-card:focus, .give-wrap .give-card:hover, .give-wrap .give-card:visited{
+    box-shadow: 1px 1px 33px 0px rgba(83, 95, 159, 0.15);
+}
+.sigma_donation-title{
+    font-size: 32px;
+    line-height: 36px;
+    margin-bottom: 15px;
+    margin-top: 0;
+    word-break: break-word;
+    font-weight: 700;
+}
+.sigma_donation-title a{
+    color: #000;
+}
+.sigma_donation-title a:hover{
+    color: #d6a77b;
+}
+[class*="col-xl-"] .sigma_donation .sigma_donation-title,
+.give-wrap .give-grid .give-card__title{
+    font-size: 24px;
+    letter-spacing: normal;
+    margin-bottom: 20px;
+    margin-top: 0;
+    word-break: break-word;
+    font-weight: 700;
+    line-height: 1.3;
+}
+.sigma_donation-body {
+    padding: 15px;
+    border: 1px solid rgba(0, 0, 0, .1);
+}
+.sigma_donation .progress{
+    background-color: #141433;
+    border-radius: 6px;
+    height: 7px;
+    margin: 50px 0 20px 0;
+    overflow: visible;
+}
+.sigma_donation .progress .progress-bar{
+    background-color: #d6a77b;
+    position: relative;
+    border-radius: 6px;
+}
+.sigma_donation .progress .progress-bar span{
+    position: absolute;
+    top: -43px;
+    right: -13px;
+    background: #d6a77b;
+    padding: 0 5px;
+    font-size: 11px;
+    height: 22px;
+    line-height: 20px;
+    border-radius: 2px;
+    z-index: 10;
+    color: #fff;
+}
+.sigma_donation .progress .progress-bar span:after{
+    content: '';
+    position: absolute;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 6px solid #d6a77b;
+    bottom: -6px;
+    left: 50%;
+    margin-left: -6px;
+}
+.sigma_donation:hover .donation-post-thumb img {
+    margin-left: 0;
+}
+.signa_donation-collection{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.signa_donation-collection span{
+    color: #d6a77b;
+}
+.signa_donation-collection span + span{
+    margin-left: 10px;
+}
+.signa_donation-collection label{
+    margin: 0;
+    font-weight: 600;
+    color: #6b6b83;
+    margin-right: 5px;
+    font-size: 14px;
+}
+.signa_donation-collection p {
+    display: flex;
+    flex-direction: column;
+}
+.signa_donation-collection p span {
+    font-weight: 700;
+    font-size: 16px;
+    color: #d6a77b;
+}
+.sigma_donation  a.sigma_donation-btn,
+.give-btn{
+    position: relative;
+    background-color: #d6a77b;
+    border: none;
+    font-family: inherit;
+    cursor: pointer;
+    -webkit-transition: all .6s;
+    -moz-transition: all .6s;
+    font-size: 14px;
+    line-height: 30px;
+    color: #fff;
+    border-radius: 0;
+    padding: 10px 40px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 1.5px;
+    display: block;
+}
+.sigma_donation a.sigma_donation-btn:hover,
+.sigma_donation a.sigma_donation-btn:focus,
+.give-btn:hover, .give-btn:focus{
+    background-color: #141433;
+    outline: none;
+}
+.sigma_donation .donation-post-thumb .give-form-cat {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: 10;
+    display: inline-block;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 27px;
+    padding: 5px 15px;
+    background-color: #d6a77b;
+    border-radius: 0px 4px 0px 4px;
+}
+/* Style 3 */
+.sigma_donation.sigma-donation-style-3 .donation-post-thumb .give-form-cat {
+    background: #28a745;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    left: 10px;
+    line-height: 1;
+    min-width: 46px;
+    padding: 10px 12px;
+    position: absolute;
+    text-align: center;
+    text-transform: capitalize;
+    z-index: 3;
+    bottom: auto;
+    top: 10px;
+}
+.sigma_donation.sigma-donation-style-3 {
+    position: relative;
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0 0 0 1px rgb(67 41 163 / 8%), 0 1px 5px 0 rgb(67 41 163 / 8%);
+    margin-bottom: 20px;
+}
+.sigma_donation.sigma-donation-style-3 .donation-post-thumb img{
+    transform: scale(0.9);
+    transition-duration: .4s;
+    margin-left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.sigma_donation.sigma-donation-style-3 .sigma_donation-body{
+    border: 0;
+}
+.sigma_donation.sigma-donation-style-3 .donate-btn-wrapper {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    text-align: center;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
+}
+.sigma_donation.sigma-donation-style-3 .progress{
+    margin: 0 0 20px;
+}
+.sigma_donation.sigma-donation-style-3 .signa_donation-collection p{
+    display: inline-block;
+}
+.sigma_donation.sigma-donation-style-3 .signa_donation-collection{
+    margin-bottom: 0;
+}
+.sigma_donation.sigma-donation-style-3 .sigma_donation-title{
+    font-size: 18px;
+    margin-bottom: 0;
+}
+.sigma_donation.sigma-donation-style-3:hover .donation-post-thumb img{
+    transform: scale(1);
+}
+.sigma_donation.sigma-donation-style-3:hover .donate-btn-wrapper {
+    bottom: 0px;
+    opacity: 1;
+    visibility: visible;
+}
+/* Give Details */
+.give-wrap.container{
+    padding: 100px 15px 75px;
+}
+.give_error, .give_success, .give_warning{
+    margin: 30px 0;
+}
+[id*=give-form] .give-form-title,
+.give-goal-progress{
+    margin: 0 0 30px;
+}
+.give-progress-bar{
+    background: #f5f5f5;
+    border-radius: 0;
+    height: 8px;
+}
+.give-progress-bar span {
+    background: #d6a77b !important;
+}
+.give-progress-bar>span{
+    border-radius: 0;
+}
+form[id*=give-form] #give-gateway-radio-list>li{
+    margin: 0 15px 10px 0;
+    display: inline-flex;
+}
+.give-goal-progress .income {
+    color: #d6a77b;
+}
+.give-progress-bar>span{
+    background-color: #d6a77b;
+}
+.give-modal form.give-form button.mfp-close{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+/* Give Sidebar */
+.give-sidebar .widget{
+    box-shadow: 1px 1px 10px 1px rgba(83, 95, 159, 0.15);
+    border: 1px solid #eee;
+}
+.widget [id*=give-form] .give-form-title{
+    font-size: 30px;
+    line-height: 36px;
+}
+.widget .give-progress-bar{
+    height: 10px;
+    background-color: #f7f7f7;
+}
+.widget .give-goal-progress .income{
+    font-size: 26px;
+    line-height: 28px;
+}
+.widget .give-goal-progress .raised{
+    margin-bottom: 10px;
+}
+[id*=give-form].give-fl-form .give-fl-wrap{
+    display: block;
+    width: 100%;
+}
+[id*=give-form].give-fl-form .give-fl-has-focus label.give-fl-label{
+    color: #d6a77b;
+}
+.widget #give-recurring-form, form.give-form, form[id*=give-form],
+.widget [id*=give-form].give-display-modal .give-btn, .widget [id*=give-form].give-display-reveal .give-btn,
+.widget [id*=give-form] div.give-form-content-wrap.give_post_form-content p:last-child{
+    margin: 0;
+}
+.widget.widget_give_forms_widget [id*=give-form].give-display-modal .give-btn {
+    letter-spacing: normal;
+}
+.widget [id*=give-form] div.give-form-content-wrap.give_post_form-content{
+    margin: 30px 0 0;
+}
+.give-sidebar .images,
+[id*=give-form] div.images{
+    margin: 0 0 30px;
+}
+.give-donation-submit .give-submit-button-wrap,
+.widget.widget_give_forms_widget [id*=give-form].give-display-modal .give-btn{
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: normal;
+    display: inline-block;
+    position: relative;
+    background: #d6a77b;
+}
+.give-donation-submit .give-submit-button-wrap:before{
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transform-origin: center;
+    background-color: #b78d65;
+    width: 10px;
+    height: calc(100% - 15px);
+    transition: .3s;
+    opacity: 0;
+    visibility: hidden;
+}
+.give-donation-submit .give-submit-button-wrap:hover::before{
+    width: calc(100% - 14px);
+    opacity: 1;
+    visibility: visible;
+}
+.give-donation-submit .give-submit-button-wrap input {
+    background: none;
+    padding: 15px 30px;
+}
+.give-donation-submit .give-submit-button-wrap:hover input {
+    background: none;
+}
+form[id*=give-form] #give-final-total-wrap .give-final-total-amount,
+form[id*=give-form] #give-final-total-wrap .give-donation-total-label,
+form[id*=give-form] .give-donation-amount #give-amount,
+form[id*=give-form] .give-donation-amount .give-currency-symbol{
+    height: 55px;
+    border: 1px solid #d9d9d9;
+    line-height: 55px;
+}
+form[id*=give-form] .give-donation-amount .give-currency-symbol {
+    padding: 0 20px;
+}
+form[id*=give-form] #give-final-total-wrap .give-donation-total-label,
+form[id*=give-form] .give-donation-amount .give-currency-symbol.give-currency-position-before{
+    border-color: #d6a77b;
+}
+
+/* Give Donors */
+.give-donor__details .give-donor__total{
+    color: #d6a77b;
+    margin: 5px 0;
+    display: block;
+}
+/* Reponsive */
+@media(max-width: 767px){
+    .give-wrap.container{
+        padding: 60px 15px 35px;
+    }
+}

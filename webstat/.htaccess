@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/dev.lielvardnieki.lv/webstat"
+AuthUserFile /home/yl3gbc_4466/data/etc/14916.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

@@ -1,0 +1,420 @@
+# Translation of Themes - Twenty Sixteen in Latvian
+# This file is distributed under the same license as the Themes - Twenty Sixteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-07 11:00:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= 19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: lv\n"
+"Project-Id-Version: Themes - Twenty Sixteen\n"
+
+#. Description of the theme
+msgid "Twenty Sixteen is a modernized take on an ever-popular WordPress layout — the horizontal masthead with an optional right sidebar that works perfectly for blogs and websites. It has custom color options with beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail. Twenty Sixteen will make your WordPress look beautiful everywhere."
+msgstr "2016 tēma ir modernizēta, iekļaujot aizvien populārākos WordPress izskata elementus — horizontālu titullapas augšpusi ar neobligātu sānjoslu, kas perfekti der blogiem un citām tīmekļa vietnēm. Tai ir pielāgojama krāsu palete ar skaistiem noklusējuma krāsu salikumiem, harmonisku plūstošo izkārtojumu, izmantojot mobilo skatu kā pirmo un nevainojamu pulējumu visos sīkumos. Tēma 2016 vienmēr un visur piešķirs jūsu WordPress vietnei nevainojamu izskatu."
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:16 inc/block-patterns.php:56
+msgid "Twenty Sixteen"
+msgstr "Divdesmit sešpadsmit"
+
+#: inc/block-patterns.php:139
+msgid "Pre-Order Now"
+msgstr "Iepriekš pasūtīt tūlīt"
+
+#: inc/block-patterns.php:132
+msgid "My new book “Twenty Sixteen” is available for pre-order."
+msgstr "Manu jauno grāmatu “Divdesmit sešpadsmit” ir iespējams pasūtīt iepriekš."
+
+#: inc/block-patterns.php:121
+msgid "Call to Action"
+msgstr "Aicinājums uz darbību"
+
+#: inc/block-patterns.php:101
+msgid "— Takashi Irie"
+msgstr "- Takaši Īri"
+
+#: inc/block-patterns.php:97
+msgid "Twenty Sixteen will make your WordPress look beautiful everywhere."
+msgstr "Ar Divdesmit sešpadsmit jūsu WordPress izskatīsies skaisti visur."
+
+#: inc/block-patterns.php:86
+msgid "Large Blockquote"
+msgstr "Liels citātu bloks"
+
+#: inc/block-patterns.php:72
+msgid "The theme features a harmonious fluid grid using a mobile-first approach. The layout is a modern take on the horizontal masthead with an optional right sidebar. "
+msgstr "Tēma atspoguļo harmonisku plūstošu režģi, izmantojot pieeju mobilajam vispirms. Izkārtojums ir moderns horizontālās virspuses paraugs ar papildu labo sānjoslu."
+
+#: inc/block-patterns.php:66
+msgid "Twenty Sixteen will make your WordPress website look beautiful everywhere. Take advantage of its custom color options and beautiful default color schemes."
+msgstr "Ar Divdesmit sešpadsmit jūsu WordPress vietne visur izskatīsies skaisti. Izmantojiet tās pielāgotās krāsu opcijas un skaistas noklusējuma krāsu shēmas."
+
+#: inc/block-patterns.php:49
+msgid "Big Title with Two Columns Text"
+msgstr "Liels virsraksts ar tekstu divās slejās"
+
+#: inc/block-patterns.php:37
+msgid "Twenty Sixteen will make your WordPress website look beautiful everywhere. Take advantage of custom color options, beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail."
+msgstr "Divdesmit sešpadsmit jūsu WordPress vietne visur izskatīsies skaisti. Izmantojiet pielāgotu krāsu opciju, skaistu noklusējuma krāsu shēmu, harmoniskas plūstoša režģa priekšrocības, izmantojiet mobilo pieeju, un nevainojamu pulējumu visās detaļās."
+
+#: inc/block-patterns.php:34
+msgid "Twenty Sixteen is a modern take on the horizontal masthead with an optional right sidebar. It works perfectly for WordPress websites and blogs."
+msgstr "Divdesmit sešpadsmit ir mūsdienīgs horizontālās virsraksta uzņemšanas elements ar izvēles labo sānjoslu. Tas lieliski darbojas WordPress vietnēs un emuāros."
+
+#: inc/block-patterns.php:27
+msgid "Large heading with short description"
+msgstr "Liels virsraksts ar īsu aprakstu"
+
+#: functions.php:205
+msgid "Bright Red"
+msgstr "Spilgti sarkans"
+
+#: functions.php:200
+msgid "Dark Red"
+msgstr "Tumši sarkans"
+
+#: functions.php:195
+msgid "Medium Brown"
+msgstr "Vidēji brūns"
+
+#: functions.php:190
+msgid "Dark Brown"
+msgstr "Tumši brūns"
+
+#: functions.php:185
+msgid "Light Blue"
+msgstr "Gaiši zils"
+
+#: functions.php:180
+msgid "Bright Blue"
+msgstr "Spilgti zils"
+
+#: functions.php:175
+msgid "Blue Gray"
+msgstr "Zils pelēks"
+
+#: functions.php:170
+msgid "White"
+msgstr "Balts"
+
+#: functions.php:165
+msgid "Light Gray"
+msgstr "Gaiši pelēks"
+
+#: functions.php:160
+msgid "Medium Gray"
+msgstr "Vidēji pelēks"
+
+#: functions.php:155
+msgid "Dark Gray"
+msgstr "Tumši pelēks"
+
+#. translators: %s: Post title.
+#: template-parts/content.php:29 inc/template-tags.php:195
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Turpināt lasīt<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Post title.
+#: template-parts/content.php:53 template-parts/content-page.php:39
+#: template-parts/content-search.php:28 template-parts/content-search.php:43
+#: template-parts/content-single.php:47 image.php:88
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Labot<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/customizer.php:347
+msgid "Red"
+msgstr "Sarkans"
+
+#. translators: %s: Post title.
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Komentārs par &ldquo;%s&rdquo;"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Meklēt"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Meklēt &hellip;"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Meklēt:"
+
+#: footer.php:30
+msgid "Footer Social Links Menu"
+msgstr "Kājenes sociālo saišu izvēlne"
+
+#: footer.php:17
+msgid "Footer Primary Menu"
+msgstr "Galvenā kājenes izvēlne"
+
+#: functions.php:273
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Lai logrīki būtu redzami sānjoslās, tos pievienojiet šeit."
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Izceltais"
+
+#: template-parts/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Izskatās, ka neizdodas atrast to, ko meklējat. Iespējams varētu palīdzēt meklēšana."
+
+#: template-parts/content-none.php:28
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Atvainojiet, bet nekas netika atrasts. Mēģiniet vēlreiz izmantojot citus atslēgvārdus."
+
+#. translators: %s: Post editor URL.
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Esat gatavs savai pirmajai publikācijai? <a href=\"%1$s\">Sāciet šeit</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Nekas nav atrasts"
+
+#. translators: %s: The post author display name.
+#: template-parts/biography.php:35
+msgid "View all posts by %s"
+msgstr "Skatīt visus autora %s rakstus"
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr "Autors:"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Iepriekšējais raksts:"
+
+#: single.php:41
+msgid "Previous"
+msgstr "Iepriekšējais"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Nākamais raksts:"
+
+#: single.php:38
+msgid "Next"
+msgstr "Nākamais"
+
+#. translators: %s: The search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Meklēšanas rezultāti: %s"
+
+#: inc/template-tags.php:113
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Birkas"
+
+#: inc/template-tags.php:104
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategorijas"
+
+#: inc/template-tags.php:100 inc/template-tags.php:109
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:84
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publicēts"
+
+#. translators: %s: Post title.
+#: inc/template-tags.php:53
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Rakstiet savu komentāru<span class=\"screen-reader-text\"> par %s</span>"
+
+#: inc/template-tags.php:40
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Formāts"
+
+#: inc/template-tags.php:26
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Autors"
+
+#: functions.php:210 inc/customizer.php:357
+msgid "Yellow"
+msgstr "Dzeltena"
+
+#: inc/customizer.php:337
+msgid "Gray"
+msgstr "Pelēks"
+
+#: inc/customizer.php:327
+msgid "Dark"
+msgstr "Tumša"
+
+#: inc/customizer.php:317
+msgid "Default"
+msgstr "Noklusējuma"
+
+#: inc/customizer.php:242
+msgid "Secondary Text Color"
+msgstr "Otrā teksta krāsa"
+
+#: inc/customizer.php:221
+msgid "Main Text Color"
+msgstr "Galvenā teksta krāsa"
+
+#: inc/customizer.php:200
+msgid "Link Color"
+msgstr "Saites krāsa"
+
+#: inc/customizer.php:176
+msgid "Page Background Color"
+msgstr "Lapas fona krāsa"
+
+#: inc/customizer.php:153
+msgid "Base Color Scheme"
+msgstr "Pamata krāsu palete"
+
+#. translators: %s: The current WordPress version.
+#: inc/back-compat.php:42 inc/back-compat.php:56 inc/back-compat.php:75
+msgid "Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+msgstr "Tēmai 2016 nepieciešama vismaz 4.4 WordPress versija Jūs izmantojat %s versiju. Lūdzu, jauniniet to un tad mēģiniet vēlreiz."
+
+#: single.php:31 image.php:107
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publicēts</span><span class=\"post-title\">%title</span>"
+
+#: image.php:77
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Pilnais izmērs"
+
+#: template-parts/content.php:36 template-parts/content-page.php:24
+#: template-parts/content-single.php:26 image.php:58
+msgid "Pages:"
+msgstr "Lapas:"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Nākamais attēls"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Iepriekšējais attēls"
+
+#: header.php:50
+msgid "Menu"
+msgstr "Izvēlne"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Doties uz saturu"
+
+#: functions.php:424
+msgid "collapse child menu"
+msgstr "sakļaut apakšizvēlni"
+
+#: functions.php:423
+msgid "expand child menu"
+msgstr "izvērst apakšizvēlni"
+
+#: functions.php:342
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:334
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:326
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:295
+msgid "Content Bottom 2"
+msgstr "Satura apakša 2"
+
+#: functions.php:285 functions.php:297
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr "Tiek parādīta ziņu un lapu satura apakšā."
+
+#: functions.php:283
+msgid "Content Bottom 1"
+msgstr "Satura apakša 1"
+
+#: functions.php:271
+msgid "Sidebar"
+msgstr "Sānjosla"
+
+#: functions.php:93 header.php:67
+msgid "Social Links Menu"
+msgstr "Sociālo saišu izvēlne"
+
+#: functions.php:92 header.php:54
+msgid "Primary Menu"
+msgstr "Galvenā izvēlne"
+
+#. translators: %s: WordPress
+#: footer.php:63
+msgid "Proudly powered by %s"
+msgstr "Ar lepnumu izmanto %s"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Komentāri ir slēgti."
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s doma par &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s domas par &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s domas par &ldquo;%2$s&rdquo;"
+
+#: archive.php:54 template-parts/content.php:40
+#: template-parts/content-page.php:28 template-parts/content-single.php:30
+#: search.php:46 index.php:51 image.php:62
+msgid "Page"
+msgstr "Lapa"
+
+#: archive.php:53 search.php:45 index.php:50
+msgid "Next page"
+msgstr "Nākamā lapa"
+
+#: archive.php:52 search.php:44 index.php:49
+msgid "Previous page"
+msgstr "Iepriekšējā lapa"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Izskatās, ka nekas netika atrasts. Varbūt izmēģiniet meklēšanu?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hmm... Tāda lapa nav atrodama."
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "WordPress komanda"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentysixteen/"
+msgstr "https://wordpress.org/themes/twentysixteen/"
+
+#. Author URI of the theme
+#: footer.php:60
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"

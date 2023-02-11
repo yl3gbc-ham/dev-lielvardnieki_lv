@@ -1,0 +1,6940 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-22 12:07+0530\n"
+"PO-Revision-Date: 2021-02-22 12:07+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:73
+msgid "Name"
+msgstr ""
+
+#: comments.php:77 template-parts/header/elements/contact-info.php:36
+msgid "Email"
+msgstr ""
+
+#: comments.php:81
+msgid "Website"
+msgstr ""
+
+#: comments.php:85
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: comments.php:89
+msgid "Enter your comment here..."
+msgstr ""
+
+#: page.php:37 template-parts/post/single/styles/style-1.php:66
+#: template-parts/post/single/styles/style-2.php:61
+msgid "Pages:"
+msgstr ""
+
+#: product-searchform.php:12
+msgid "Search Products..."
+msgstr ""
+
+#: searchform.php:11
+msgid "Search..."
+msgstr ""
+
+#: classes/class-gautama-walker-category.php:99
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: classes/class-gautama-walker-comment.php:33
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: classes/class-gautama-walker-comment.php:35
+msgid ""
+"Your comment is awaiting moderation. This is a preview, your comment will be "
+"visible after it has been approved."
+msgstr ""
+
+#: classes/class-gautama-walker-comment.php:56
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/functions-scripts.php:18
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/functions-scripts.php:23
+msgctxt "Rubik font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/functions-setup.php:23
+msgid "Portfolio Image"
+msgstr ""
+
+#: inc/functions-setup.php:29
+msgid "Portfolio Vertical Image"
+msgstr ""
+
+#: inc/functions-setup.php:35
+msgid "Blog Image"
+msgstr ""
+
+#: inc/functions-setup.php:41
+msgid "Team Image"
+msgstr ""
+
+#: inc/functions-setup.php:47
+msgid "Product Image"
+msgstr ""
+
+#: inc/functions-setup.php:53
+msgid "Event Image"
+msgstr ""
+
+#: inc/functions-setup.php:74
+msgid "@2x"
+msgstr ""
+
+#: inc/functions-setup.php:132
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/functions-setup.php:133
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/functions-setup.php:134
+msgid "Top Header Menu"
+msgstr ""
+
+#: inc/functions-setup.php:135
+msgid "Left Menu (Header Layout 3)"
+msgstr ""
+
+#: inc/functions-setup.php:136
+msgid "Right Menu (Header Layout 3)"
+msgstr ""
+
+#: inc/functions-sidebars.php:18
+#: inc/redux-options/options/blog-settings.php:59
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:20
+msgid "Blog Sidebar."
+msgstr ""
+
+#: inc/functions-sidebars.php:30
+msgid "Footer column 1"
+msgstr ""
+
+#: inc/functions-sidebars.php:32 inc/functions-sidebars.php:43
+#: inc/functions-sidebars.php:54 inc/functions-sidebars.php:65
+#: inc/functions-sidebars.php:76 inc/functions-sidebars.php:87
+#: inc/functions-sidebars.php:98 inc/functions-sidebars.php:109
+#: inc/functions-sidebars.php:120 inc/functions-sidebars.php:131
+#: inc/functions-sidebars.php:142
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/functions-sidebars.php:41
+msgid "Footer column 2"
+msgstr ""
+
+#: inc/functions-sidebars.php:52
+msgid "Footer column 3"
+msgstr ""
+
+#: inc/functions-sidebars.php:63
+msgid "Footer column 4"
+msgstr ""
+
+#: inc/functions-sidebars.php:74
+#: inc/redux-options/options/page-settings.php:15
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:85
+#: inc/redux-options/options/portfolio-settings.php:16
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:96
+#: inc/redux-options/options/sermons-settings.php:15
+msgid "Sermons Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:107
+#: inc/redux-options/options/event-settings.php:15
+msgid "Event Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:118
+#: inc/redux-options/options/ministries-settings.php:15
+msgid "Ministries Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:129
+#: inc/redux-options/options/service-settings.php:15
+msgid "Service Sidebar"
+msgstr ""
+
+#: inc/functions-sidebars.php:140
+msgid "Header Collapse Sidebar"
+msgstr ""
+
+#: inc/functions-subheader.php:126
+msgid "Home"
+msgstr ""
+
+#: inc/functions-subheader.php:209
+msgid "Blog Details "
+msgstr ""
+
+#: inc/functions-subheader.php:247
+msgid "Author archive for"
+msgstr ""
+
+#: inc/functions-subheader.php:281
+msgid " Search query for: "
+msgstr ""
+
+#: inc/functions-subheader.php:286
+msgid " Error 404"
+msgstr ""
+
+#: inc/functions-subheader.php:292
+#, php-format
+msgid " ( Page %s )"
+msgstr ""
+
+#: inc/functions-utilities.php:264
+msgid "500px"
+msgstr ""
+
+#: inc/functions-utilities.php:265
+msgid "accessible-icon"
+msgstr ""
+
+#: inc/functions-utilities.php:266
+msgid "accusoft"
+msgstr ""
+
+#: inc/functions-utilities.php:267 inc/functions-utilities.php:268
+msgid "address-book"
+msgstr ""
+
+#: inc/functions-utilities.php:269 inc/functions-utilities.php:270
+msgid "address-card"
+msgstr ""
+
+#: inc/functions-utilities.php:271
+msgid "adjust"
+msgstr ""
+
+#: inc/functions-utilities.php:272
+msgid "adn"
+msgstr ""
+
+#: inc/functions-utilities.php:273
+msgid "adversal"
+msgstr ""
+
+#: inc/functions-utilities.php:274
+msgid "affiliatetheme"
+msgstr ""
+
+#: inc/functions-utilities.php:275
+msgid "algolia"
+msgstr ""
+
+#: inc/functions-utilities.php:276
+msgid "align-center"
+msgstr ""
+
+#: inc/functions-utilities.php:277
+msgid "align-justify"
+msgstr ""
+
+#: inc/functions-utilities.php:278
+msgid "align-left"
+msgstr ""
+
+#: inc/functions-utilities.php:279
+msgid "align-right"
+msgstr ""
+
+#: inc/functions-utilities.php:280
+msgid "allergies"
+msgstr ""
+
+#: inc/functions-utilities.php:281
+msgid "amazon"
+msgstr ""
+
+#: inc/functions-utilities.php:282
+msgid "amazon-pay"
+msgstr ""
+
+#: inc/functions-utilities.php:283
+msgid "ambulance"
+msgstr ""
+
+#: inc/functions-utilities.php:284
+msgid "american-sign-language-interpreting"
+msgstr ""
+
+#: inc/functions-utilities.php:285
+msgid "amilia"
+msgstr ""
+
+#: inc/functions-utilities.php:286
+msgid "anchor"
+msgstr ""
+
+#: inc/functions-utilities.php:287
+msgid "android"
+msgstr ""
+
+#: inc/functions-utilities.php:288
+msgid "angellist"
+msgstr ""
+
+#: inc/functions-utilities.php:289
+msgid "angle-double-down"
+msgstr ""
+
+#: inc/functions-utilities.php:290
+msgid "angle-double-left"
+msgstr ""
+
+#: inc/functions-utilities.php:291
+msgid "angle-double-right"
+msgstr ""
+
+#: inc/functions-utilities.php:292
+msgid "angle-double-up"
+msgstr ""
+
+#: inc/functions-utilities.php:293
+msgid "angle-down"
+msgstr ""
+
+#: inc/functions-utilities.php:294
+msgid "angle-left"
+msgstr ""
+
+#: inc/functions-utilities.php:295
+msgid "angle-right"
+msgstr ""
+
+#: inc/functions-utilities.php:296
+msgid "angle-up"
+msgstr ""
+
+#: inc/functions-utilities.php:297
+msgid "angrycreative"
+msgstr ""
+
+#: inc/functions-utilities.php:298
+msgid "angular"
+msgstr ""
+
+#: inc/functions-utilities.php:299
+msgid "app-store"
+msgstr ""
+
+#: inc/functions-utilities.php:300
+msgid "app-store-ios"
+msgstr ""
+
+#: inc/functions-utilities.php:301
+msgid "apper"
+msgstr ""
+
+#: inc/functions-utilities.php:302
+msgid "apple"
+msgstr ""
+
+#: inc/functions-utilities.php:303
+msgid "apple-pay"
+msgstr ""
+
+#: inc/functions-utilities.php:304
+msgid "archive"
+msgstr ""
+
+#: inc/functions-utilities.php:305 inc/functions-utilities.php:306
+msgid "arrow-alt-circle-down"
+msgstr ""
+
+#: inc/functions-utilities.php:307 inc/functions-utilities.php:308
+msgid "arrow-alt-circle-left"
+msgstr ""
+
+#: inc/functions-utilities.php:309 inc/functions-utilities.php:310
+msgid "arrow-alt-circle-right"
+msgstr ""
+
+#: inc/functions-utilities.php:311 inc/functions-utilities.php:312
+msgid "arrow-alt-circle-up"
+msgstr ""
+
+#: inc/functions-utilities.php:313
+msgid "arrow-circle-down"
+msgstr ""
+
+#: inc/functions-utilities.php:314
+msgid "arrow-circle-left"
+msgstr ""
+
+#: inc/functions-utilities.php:315
+msgid "arrow-circle-right"
+msgstr ""
+
+#: inc/functions-utilities.php:316
+msgid "arrow-circle-up"
+msgstr ""
+
+#: inc/functions-utilities.php:317
+msgid "arrow-down"
+msgstr ""
+
+#: inc/functions-utilities.php:318
+msgid "arrow-left"
+msgstr ""
+
+#: inc/functions-utilities.php:319
+msgid "arrow-right"
+msgstr ""
+
+#: inc/functions-utilities.php:320
+msgid "arrow-up"
+msgstr ""
+
+#: inc/functions-utilities.php:321
+msgid "arrows-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:322
+msgid "arrows-alt-h"
+msgstr ""
+
+#: inc/functions-utilities.php:323
+msgid "arrows-alt-v"
+msgstr ""
+
+#: inc/functions-utilities.php:324
+msgid "assistive-listening-systems"
+msgstr ""
+
+#: inc/functions-utilities.php:325
+msgid "asterisk"
+msgstr ""
+
+#: inc/functions-utilities.php:326
+msgid "asymmetrik"
+msgstr ""
+
+#: inc/functions-utilities.php:327
+msgid "at"
+msgstr ""
+
+#: inc/functions-utilities.php:328
+msgid "audible"
+msgstr ""
+
+#: inc/functions-utilities.php:329
+msgid "audio-description"
+msgstr ""
+
+#: inc/functions-utilities.php:330
+msgid "autoprefixer"
+msgstr ""
+
+#: inc/functions-utilities.php:331
+msgid "avianex"
+msgstr ""
+
+#: inc/functions-utilities.php:332
+msgid "aviato"
+msgstr ""
+
+#: inc/functions-utilities.php:333
+msgid "aws"
+msgstr ""
+
+#: inc/functions-utilities.php:334
+msgid "backward"
+msgstr ""
+
+#: inc/functions-utilities.php:335
+msgid "balance-scale"
+msgstr ""
+
+#: inc/functions-utilities.php:336
+msgid "ban"
+msgstr ""
+
+#: inc/functions-utilities.php:337
+msgid "band-aid"
+msgstr ""
+
+#: inc/functions-utilities.php:338
+msgid "bandcamp"
+msgstr ""
+
+#: inc/functions-utilities.php:339
+msgid "barcode"
+msgstr ""
+
+#: inc/functions-utilities.php:340
+msgid "bars"
+msgstr ""
+
+#: inc/functions-utilities.php:341
+msgid "baseball-ball"
+msgstr ""
+
+#: inc/functions-utilities.php:342
+msgid "basketball-ball"
+msgstr ""
+
+#: inc/functions-utilities.php:343
+msgid "bath"
+msgstr ""
+
+#: inc/functions-utilities.php:344
+msgid "battery-empty"
+msgstr ""
+
+#: inc/functions-utilities.php:345
+msgid "battery-full"
+msgstr ""
+
+#: inc/functions-utilities.php:346
+msgid "battery-half"
+msgstr ""
+
+#: inc/functions-utilities.php:347
+msgid "battery-quarter"
+msgstr ""
+
+#: inc/functions-utilities.php:348
+msgid "battery-three-quarters"
+msgstr ""
+
+#: inc/functions-utilities.php:349
+msgid "bed"
+msgstr ""
+
+#: inc/functions-utilities.php:350
+msgid "beer"
+msgstr ""
+
+#: inc/functions-utilities.php:351
+msgid "behance"
+msgstr ""
+
+#: inc/functions-utilities.php:352
+msgid "behance-square"
+msgstr ""
+
+#: inc/functions-utilities.php:353 inc/functions-utilities.php:354
+msgid "bell"
+msgstr ""
+
+#: inc/functions-utilities.php:355 inc/functions-utilities.php:356
+msgid "bell-slash"
+msgstr ""
+
+#: inc/functions-utilities.php:357
+msgid "bicycle"
+msgstr ""
+
+#: inc/functions-utilities.php:358
+msgid "bimobject"
+msgstr ""
+
+#: inc/functions-utilities.php:359
+msgid "binoculars"
+msgstr ""
+
+#: inc/functions-utilities.php:360
+msgid "birthday-cake"
+msgstr ""
+
+#: inc/functions-utilities.php:361
+msgid "bitbucket"
+msgstr ""
+
+#: inc/functions-utilities.php:362
+msgid "bitcoin"
+msgstr ""
+
+#: inc/functions-utilities.php:363
+msgid "bity"
+msgstr ""
+
+#: inc/functions-utilities.php:364
+msgid "black-tie"
+msgstr ""
+
+#: inc/functions-utilities.php:365
+msgid "blackberry"
+msgstr ""
+
+#: inc/functions-utilities.php:366
+msgid "blind"
+msgstr ""
+
+#: inc/functions-utilities.php:367
+msgid "blogger"
+msgstr ""
+
+#: inc/functions-utilities.php:368
+msgid "blogger-b"
+msgstr ""
+
+#: inc/functions-utilities.php:369
+msgid "bluetooth"
+msgstr ""
+
+#: inc/functions-utilities.php:370
+msgid "bluetooth-b"
+msgstr ""
+
+#: inc/functions-utilities.php:371
+msgid "bold"
+msgstr ""
+
+#: inc/functions-utilities.php:372
+msgid "bolt"
+msgstr ""
+
+#: inc/functions-utilities.php:373
+msgid "bomb"
+msgstr ""
+
+#: inc/functions-utilities.php:374
+msgid "book"
+msgstr ""
+
+#: inc/functions-utilities.php:375 inc/functions-utilities.php:376
+msgid "bookmark"
+msgstr ""
+
+#: inc/functions-utilities.php:377
+msgid "bowling-ball"
+msgstr ""
+
+#: inc/functions-utilities.php:378
+msgid "box"
+msgstr ""
+
+#: inc/functions-utilities.php:379
+msgid "box-open"
+msgstr ""
+
+#: inc/functions-utilities.php:380
+msgid "boxes"
+msgstr ""
+
+#: inc/functions-utilities.php:381
+msgid "braille"
+msgstr ""
+
+#: inc/functions-utilities.php:382
+msgid "briefcase"
+msgstr ""
+
+#: inc/functions-utilities.php:383
+msgid "briefcase-medical"
+msgstr ""
+
+#: inc/functions-utilities.php:384
+msgid "btc"
+msgstr ""
+
+#: inc/functions-utilities.php:385
+msgid "bug"
+msgstr ""
+
+#: inc/functions-utilities.php:386 inc/functions-utilities.php:387
+msgid "building"
+msgstr ""
+
+#: inc/functions-utilities.php:388
+msgid "bullhorn"
+msgstr ""
+
+#: inc/functions-utilities.php:389
+msgid "bullseye"
+msgstr ""
+
+#: inc/functions-utilities.php:390
+msgid "burn"
+msgstr ""
+
+#: inc/functions-utilities.php:391
+msgid "buromobelexperte"
+msgstr ""
+
+#: inc/functions-utilities.php:392
+msgid "bus"
+msgstr ""
+
+#: inc/functions-utilities.php:393
+msgid "buysellads"
+msgstr ""
+
+#: inc/functions-utilities.php:394
+msgid "calculator"
+msgstr ""
+
+#: inc/functions-utilities.php:395 inc/functions-utilities.php:396
+msgid "calendar"
+msgstr ""
+
+#: inc/functions-utilities.php:397 inc/functions-utilities.php:398
+msgid "calendar-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:399 inc/functions-utilities.php:400
+msgid "calendar-check"
+msgstr ""
+
+#: inc/functions-utilities.php:401 inc/functions-utilities.php:402
+msgid "calendar-minus"
+msgstr ""
+
+#: inc/functions-utilities.php:403 inc/functions-utilities.php:404
+msgid "calendar-plus"
+msgstr ""
+
+#: inc/functions-utilities.php:405 inc/functions-utilities.php:406
+msgid "calendar-times"
+msgstr ""
+
+#: inc/functions-utilities.php:407
+msgid "camera"
+msgstr ""
+
+#: inc/functions-utilities.php:408
+msgid "camera-retro"
+msgstr ""
+
+#: inc/functions-utilities.php:409
+msgid "capsules"
+msgstr ""
+
+#: inc/functions-utilities.php:410
+msgid "car"
+msgstr ""
+
+#: inc/functions-utilities.php:411
+msgid "caret-down"
+msgstr ""
+
+#: inc/functions-utilities.php:412
+msgid "caret-left"
+msgstr ""
+
+#: inc/functions-utilities.php:413
+msgid "caret-right"
+msgstr ""
+
+#: inc/functions-utilities.php:414 inc/functions-utilities.php:415
+msgid "caret-square-down"
+msgstr ""
+
+#: inc/functions-utilities.php:416 inc/functions-utilities.php:417
+msgid "caret-square-left"
+msgstr ""
+
+#: inc/functions-utilities.php:418 inc/functions-utilities.php:419
+msgid "caret-square-right"
+msgstr ""
+
+#: inc/functions-utilities.php:420 inc/functions-utilities.php:421
+msgid "caret-square-up"
+msgstr ""
+
+#: inc/functions-utilities.php:422
+msgid "caret-up"
+msgstr ""
+
+#: inc/functions-utilities.php:423
+msgid "cart-arrow-down"
+msgstr ""
+
+#: inc/functions-utilities.php:424
+msgid "cart-plus"
+msgstr ""
+
+#: inc/functions-utilities.php:425
+msgid "cc-amazon-pay"
+msgstr ""
+
+#: inc/functions-utilities.php:426
+msgid "cc-amex"
+msgstr ""
+
+#: inc/functions-utilities.php:427
+msgid "cc-apple-pay"
+msgstr ""
+
+#: inc/functions-utilities.php:428
+msgid "cc-diners-club"
+msgstr ""
+
+#: inc/functions-utilities.php:429
+msgid "cc-discover"
+msgstr ""
+
+#: inc/functions-utilities.php:430
+msgid "cc-jcb"
+msgstr ""
+
+#: inc/functions-utilities.php:431
+msgid "cc-mastercard"
+msgstr ""
+
+#: inc/functions-utilities.php:432
+msgid "cc-paypal"
+msgstr ""
+
+#: inc/functions-utilities.php:433
+msgid "cc-stripe"
+msgstr ""
+
+#: inc/functions-utilities.php:434
+msgid "cc-visa"
+msgstr ""
+
+#: inc/functions-utilities.php:435
+msgid "centercode"
+msgstr ""
+
+#: inc/functions-utilities.php:436
+msgid "certificate"
+msgstr ""
+
+#: inc/functions-utilities.php:437
+msgid "chart-area"
+msgstr ""
+
+#: inc/functions-utilities.php:438 inc/functions-utilities.php:439
+msgid "chart-bar"
+msgstr ""
+
+#: inc/functions-utilities.php:440
+msgid "chart-line"
+msgstr ""
+
+#: inc/functions-utilities.php:441
+msgid "chart-pie"
+msgstr ""
+
+#: inc/functions-utilities.php:442
+msgid "check"
+msgstr ""
+
+#: inc/functions-utilities.php:443 inc/functions-utilities.php:444
+msgid "check-circle"
+msgstr ""
+
+#: inc/functions-utilities.php:445 inc/functions-utilities.php:446
+msgid "check-square"
+msgstr ""
+
+#: inc/functions-utilities.php:447
+msgid "chess"
+msgstr ""
+
+#: inc/functions-utilities.php:448
+msgid "chess-bishop"
+msgstr ""
+
+#: inc/functions-utilities.php:449
+msgid "chess-board"
+msgstr ""
+
+#: inc/functions-utilities.php:450
+msgid "chess-king"
+msgstr ""
+
+#: inc/functions-utilities.php:451
+msgid "chess-knight"
+msgstr ""
+
+#: inc/functions-utilities.php:452
+msgid "chess-pawn"
+msgstr ""
+
+#: inc/functions-utilities.php:453
+msgid "chess-queen"
+msgstr ""
+
+#: inc/functions-utilities.php:454
+msgid "chess-rook"
+msgstr ""
+
+#: inc/functions-utilities.php:455
+msgid "chevron-circle-down"
+msgstr ""
+
+#: inc/functions-utilities.php:456
+msgid "chevron-circle-left"
+msgstr ""
+
+#: inc/functions-utilities.php:457
+msgid "chevron-circle-right"
+msgstr ""
+
+#: inc/functions-utilities.php:458
+msgid "chevron-circle-up"
+msgstr ""
+
+#: inc/functions-utilities.php:459
+msgid "chevron-down"
+msgstr ""
+
+#: inc/functions-utilities.php:460
+msgid "chevron-left"
+msgstr ""
+
+#: inc/functions-utilities.php:461
+msgid "chevron-right"
+msgstr ""
+
+#: inc/functions-utilities.php:462
+msgid "chevron-up"
+msgstr ""
+
+#: inc/functions-utilities.php:463
+msgid "child"
+msgstr ""
+
+#: inc/functions-utilities.php:464
+msgid "chrome"
+msgstr ""
+
+#: inc/functions-utilities.php:465 inc/functions-utilities.php:466
+msgid "circle"
+msgstr ""
+
+#: inc/functions-utilities.php:467
+msgid "circle-notch"
+msgstr ""
+
+#: inc/functions-utilities.php:468 inc/functions-utilities.php:469
+msgid "clipboard"
+msgstr ""
+
+#: inc/functions-utilities.php:470
+msgid "clipboard-check"
+msgstr ""
+
+#: inc/functions-utilities.php:471
+msgid "clipboard-list"
+msgstr ""
+
+#: inc/functions-utilities.php:472 inc/functions-utilities.php:473
+msgid "clock"
+msgstr ""
+
+#: inc/functions-utilities.php:474 inc/functions-utilities.php:475
+msgid "clone"
+msgstr ""
+
+#: inc/functions-utilities.php:476 inc/functions-utilities.php:477
+msgid "closed-captioning"
+msgstr ""
+
+#: inc/functions-utilities.php:478
+msgid "cloud"
+msgstr ""
+
+#: inc/functions-utilities.php:479
+msgid "cloud-download-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:480
+msgid "cloud-upload-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:481
+msgid "cloudscale"
+msgstr ""
+
+#: inc/functions-utilities.php:482
+msgid "cloudsmith"
+msgstr ""
+
+#: inc/functions-utilities.php:483
+msgid "cloudversify"
+msgstr ""
+
+#: inc/functions-utilities.php:484
+msgid "code"
+msgstr ""
+
+#: inc/functions-utilities.php:485
+msgid "code-branch"
+msgstr ""
+
+#: inc/functions-utilities.php:486
+msgid "codepen"
+msgstr ""
+
+#: inc/functions-utilities.php:487
+msgid "codiepie"
+msgstr ""
+
+#: inc/functions-utilities.php:488
+msgid "coffee"
+msgstr ""
+
+#: inc/functions-utilities.php:489
+msgid "cog"
+msgstr ""
+
+#: inc/functions-utilities.php:490
+msgid "cogs"
+msgstr ""
+
+#: inc/functions-utilities.php:491
+msgid "columns"
+msgstr ""
+
+#: inc/functions-utilities.php:492 inc/functions-utilities.php:493
+#: inc/template-tags.php:233
+msgid "comment"
+msgstr ""
+
+#: inc/functions-utilities.php:494 inc/functions-utilities.php:495
+msgid "comment-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:496
+msgid "comment-dots"
+msgstr ""
+
+#: inc/functions-utilities.php:497
+msgid "comment-slash"
+msgstr ""
+
+#: inc/functions-utilities.php:498 inc/functions-utilities.php:499
+#: inc/template-tags.php:232 inc/template-tags.php:234
+msgid "comments"
+msgstr ""
+
+#: inc/functions-utilities.php:500 inc/functions-utilities.php:501
+msgid "compass"
+msgstr ""
+
+#: inc/functions-utilities.php:502
+msgid "compress"
+msgstr ""
+
+#: inc/functions-utilities.php:503
+msgid "connectdevelop"
+msgstr ""
+
+#: inc/functions-utilities.php:504
+msgid "contao"
+msgstr ""
+
+#: inc/functions-utilities.php:505 inc/functions-utilities.php:506
+msgid "copy"
+msgstr ""
+
+#: inc/functions-utilities.php:507 inc/functions-utilities.php:508
+msgid "copyright"
+msgstr ""
+
+#: inc/functions-utilities.php:509
+msgid "couch"
+msgstr ""
+
+#: inc/functions-utilities.php:510
+msgid "cpanel"
+msgstr ""
+
+#: inc/functions-utilities.php:511
+msgid "creative-commons"
+msgstr ""
+
+#: inc/functions-utilities.php:512 inc/functions-utilities.php:513
+msgid "credit-card"
+msgstr ""
+
+#: inc/functions-utilities.php:514
+msgid "crop"
+msgstr ""
+
+#: inc/functions-utilities.php:515
+msgid "crosshairs"
+msgstr ""
+
+#: inc/functions-utilities.php:516
+msgid "css3"
+msgstr ""
+
+#: inc/functions-utilities.php:517
+msgid "css3-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:518
+msgid "cube"
+msgstr ""
+
+#: inc/functions-utilities.php:519
+msgid "cubes"
+msgstr ""
+
+#: inc/functions-utilities.php:520
+msgid "cut"
+msgstr ""
+
+#: inc/functions-utilities.php:521
+msgid "cuttlefish"
+msgstr ""
+
+#: inc/functions-utilities.php:522
+msgid "d-and-d"
+msgstr ""
+
+#: inc/functions-utilities.php:523
+msgid "dashcube"
+msgstr ""
+
+#: inc/functions-utilities.php:524
+msgid "database"
+msgstr ""
+
+#: inc/functions-utilities.php:525
+msgid "deaf"
+msgstr ""
+
+#: inc/functions-utilities.php:526
+msgid "delicious"
+msgstr ""
+
+#: inc/functions-utilities.php:527
+msgid "deploydog"
+msgstr ""
+
+#: inc/functions-utilities.php:528
+msgid "deskpro"
+msgstr ""
+
+#: inc/functions-utilities.php:529
+msgid "desktop"
+msgstr ""
+
+#: inc/functions-utilities.php:530
+msgid "deviantart"
+msgstr ""
+
+#: inc/functions-utilities.php:531
+msgid "diagnoses"
+msgstr ""
+
+#: inc/functions-utilities.php:532
+msgid "digg"
+msgstr ""
+
+#: inc/functions-utilities.php:533
+msgid "digital-ocean"
+msgstr ""
+
+#: inc/functions-utilities.php:534
+msgid "discord"
+msgstr ""
+
+#: inc/functions-utilities.php:535
+msgid "discourse"
+msgstr ""
+
+#: inc/functions-utilities.php:536
+msgid "dna"
+msgstr ""
+
+#: inc/functions-utilities.php:537
+msgid "dochub"
+msgstr ""
+
+#: inc/functions-utilities.php:538
+msgid "docker"
+msgstr ""
+
+#: inc/functions-utilities.php:539
+msgid "dollar-sign"
+msgstr ""
+
+#: inc/functions-utilities.php:540
+msgid "dolly"
+msgstr ""
+
+#: inc/functions-utilities.php:541
+msgid "dolly-flatbed"
+msgstr ""
+
+#: inc/functions-utilities.php:542
+msgid "donate"
+msgstr ""
+
+#: inc/functions-utilities.php:543 inc/functions-utilities.php:544
+msgid "dot-circle"
+msgstr ""
+
+#: inc/functions-utilities.php:545
+msgid "dove"
+msgstr ""
+
+#: inc/functions-utilities.php:546
+msgid "download"
+msgstr ""
+
+#: inc/functions-utilities.php:547
+msgid "draft2digital"
+msgstr ""
+
+#: inc/functions-utilities.php:548
+msgid "dribbble"
+msgstr ""
+
+#: inc/functions-utilities.php:549
+msgid "dribbble-square"
+msgstr ""
+
+#: inc/functions-utilities.php:550
+msgid "dropbox"
+msgstr ""
+
+#: inc/functions-utilities.php:551
+msgid "drupal"
+msgstr ""
+
+#: inc/functions-utilities.php:552
+msgid "dyalog"
+msgstr ""
+
+#: inc/functions-utilities.php:553
+msgid "earlybirds"
+msgstr ""
+
+#: inc/functions-utilities.php:554
+msgid "edge"
+msgstr ""
+
+#: inc/functions-utilities.php:555 inc/functions-utilities.php:556
+msgid "edit"
+msgstr ""
+
+#: inc/functions-utilities.php:557
+msgid "eject"
+msgstr ""
+
+#: inc/functions-utilities.php:558
+msgid "elementor"
+msgstr ""
+
+#: inc/functions-utilities.php:559
+msgid "ellipsis-h"
+msgstr ""
+
+#: inc/functions-utilities.php:560
+msgid "ellipsis-v"
+msgstr ""
+
+#: inc/functions-utilities.php:561
+msgid "ember"
+msgstr ""
+
+#: inc/functions-utilities.php:562
+msgid "empire"
+msgstr ""
+
+#: inc/functions-utilities.php:563 inc/functions-utilities.php:564
+msgid "envelope"
+msgstr ""
+
+#: inc/functions-utilities.php:565 inc/functions-utilities.php:566
+msgid "envelope-open"
+msgstr ""
+
+#: inc/functions-utilities.php:567
+msgid "envelope-square"
+msgstr ""
+
+#: inc/functions-utilities.php:568
+msgid "envira"
+msgstr ""
+
+#: inc/functions-utilities.php:569
+msgid "eraser"
+msgstr ""
+
+#: inc/functions-utilities.php:570
+msgid "erlang"
+msgstr ""
+
+#: inc/functions-utilities.php:571
+msgid "ethereum"
+msgstr ""
+
+#: inc/functions-utilities.php:572
+msgid "etsy"
+msgstr ""
+
+#: inc/functions-utilities.php:573
+msgid "euro-sign"
+msgstr ""
+
+#: inc/functions-utilities.php:574
+msgid "exchange-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:575
+msgid "exclamation"
+msgstr ""
+
+#: inc/functions-utilities.php:576
+msgid "exclamation-circle"
+msgstr ""
+
+#: inc/functions-utilities.php:577
+msgid "exclamation-triangle"
+msgstr ""
+
+#: inc/functions-utilities.php:578
+msgid "expand"
+msgstr ""
+
+#: inc/functions-utilities.php:579
+msgid "expand-arrows-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:580
+msgid "expeditedssl"
+msgstr ""
+
+#: inc/functions-utilities.php:581
+msgid "external-link-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:582
+msgid "external-link-square-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:583
+msgid "eye"
+msgstr ""
+
+#: inc/functions-utilities.php:584
+msgid "eye-dropper"
+msgstr ""
+
+#: inc/functions-utilities.php:585 inc/functions-utilities.php:586
+msgid "eye-slash"
+msgstr ""
+
+#: inc/functions-utilities.php:587
+msgid "facebook"
+msgstr ""
+
+#: inc/functions-utilities.php:588
+msgid "facebook-f"
+msgstr ""
+
+#: inc/functions-utilities.php:589
+msgid "facebook-messenger"
+msgstr ""
+
+#: inc/functions-utilities.php:590
+msgid "facebook-square"
+msgstr ""
+
+#: inc/functions-utilities.php:591
+msgid "fast-backward"
+msgstr ""
+
+#: inc/functions-utilities.php:592
+msgid "fast-forward"
+msgstr ""
+
+#: inc/functions-utilities.php:593
+msgid "fax"
+msgstr ""
+
+#: inc/functions-utilities.php:594
+msgid "female"
+msgstr ""
+
+#: inc/functions-utilities.php:595
+msgid "fighter-jet"
+msgstr ""
+
+#: inc/functions-utilities.php:596 inc/functions-utilities.php:597
+msgid "file"
+msgstr ""
+
+#: inc/functions-utilities.php:598 inc/functions-utilities.php:599
+msgid "file-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:600 inc/functions-utilities.php:601
+msgid "file-archive"
+msgstr ""
+
+#: inc/functions-utilities.php:602 inc/functions-utilities.php:603
+msgid "file-audio"
+msgstr ""
+
+#: inc/functions-utilities.php:604 inc/functions-utilities.php:605
+msgid "file-code"
+msgstr ""
+
+#: inc/functions-utilities.php:606 inc/functions-utilities.php:607
+msgid "file-excel"
+msgstr ""
+
+#: inc/functions-utilities.php:608 inc/functions-utilities.php:609
+msgid "file-image"
+msgstr ""
+
+#: inc/functions-utilities.php:610
+msgid "file-medical"
+msgstr ""
+
+#: inc/functions-utilities.php:611
+msgid "file-medical-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:612 inc/functions-utilities.php:613
+msgid "file-pdf"
+msgstr ""
+
+#: inc/functions-utilities.php:614 inc/functions-utilities.php:615
+msgid "file-powerpoint"
+msgstr ""
+
+#: inc/functions-utilities.php:616 inc/functions-utilities.php:617
+msgid "file-video"
+msgstr ""
+
+#: inc/functions-utilities.php:618 inc/functions-utilities.php:619
+msgid "file-word"
+msgstr ""
+
+#: inc/functions-utilities.php:620
+msgid "film"
+msgstr ""
+
+#: inc/functions-utilities.php:621
+msgid "filter"
+msgstr ""
+
+#: inc/functions-utilities.php:622
+msgid "fire"
+msgstr ""
+
+#: inc/functions-utilities.php:623
+msgid "fire-extinguisher"
+msgstr ""
+
+#: inc/functions-utilities.php:624
+msgid "firefox"
+msgstr ""
+
+#: inc/functions-utilities.php:625
+msgid "first-aid"
+msgstr ""
+
+#: inc/functions-utilities.php:626
+msgid "first-order"
+msgstr ""
+
+#: inc/functions-utilities.php:627
+msgid "firstdraft"
+msgstr ""
+
+#: inc/functions-utilities.php:628 inc/functions-utilities.php:629
+msgid "flag"
+msgstr ""
+
+#: inc/functions-utilities.php:630
+msgid "flag-checkered"
+msgstr ""
+
+#: inc/functions-utilities.php:631
+msgid "flask"
+msgstr ""
+
+#: inc/functions-utilities.php:632
+msgid "flickr"
+msgstr ""
+
+#: inc/functions-utilities.php:633
+msgid "flipboard"
+msgstr ""
+
+#: inc/functions-utilities.php:634
+msgid "fly"
+msgstr ""
+
+#: inc/functions-utilities.php:635 inc/functions-utilities.php:636
+msgid "folder"
+msgstr ""
+
+#: inc/functions-utilities.php:637 inc/functions-utilities.php:638
+msgid "folder-open"
+msgstr ""
+
+#: inc/functions-utilities.php:639
+msgid "font"
+msgstr ""
+
+#: inc/functions-utilities.php:640
+msgid "font-awesome"
+msgstr ""
+
+#: inc/functions-utilities.php:641
+msgid "font-awesome-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:642
+msgid "font-awesome-flag"
+msgstr ""
+
+#: inc/functions-utilities.php:643
+msgid "fonticons"
+msgstr ""
+
+#: inc/functions-utilities.php:644
+msgid "fonticons-fi"
+msgstr ""
+
+#: inc/functions-utilities.php:645
+msgid "football-ball"
+msgstr ""
+
+#: inc/functions-utilities.php:646
+msgid "fort-awesome"
+msgstr ""
+
+#: inc/functions-utilities.php:647
+msgid "fort-awesome-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:648
+msgid "forumbee"
+msgstr ""
+
+#: inc/functions-utilities.php:649
+msgid "forward"
+msgstr ""
+
+#: inc/functions-utilities.php:650
+msgid "foursquare"
+msgstr ""
+
+#: inc/functions-utilities.php:651
+msgid "free-code-camp"
+msgstr ""
+
+#: inc/functions-utilities.php:652
+msgid "freebsd"
+msgstr ""
+
+#: inc/functions-utilities.php:653 inc/functions-utilities.php:654
+msgid "frown"
+msgstr ""
+
+#: inc/functions-utilities.php:655 inc/functions-utilities.php:656
+msgid "futbol"
+msgstr ""
+
+#: inc/functions-utilities.php:657
+msgid "gamepad"
+msgstr ""
+
+#: inc/functions-utilities.php:658
+msgid "gavel"
+msgstr ""
+
+#: inc/functions-utilities.php:659 inc/functions-utilities.php:660
+msgid "gem"
+msgstr ""
+
+#: inc/functions-utilities.php:661
+msgid "genderless"
+msgstr ""
+
+#: inc/functions-utilities.php:662
+msgid "get-pocket"
+msgstr ""
+
+#: inc/functions-utilities.php:663
+msgid "gg"
+msgstr ""
+
+#: inc/functions-utilities.php:664
+msgid "gg-circle"
+msgstr ""
+
+#: inc/functions-utilities.php:665
+msgid "gift"
+msgstr ""
+
+#: inc/functions-utilities.php:666
+msgid "git"
+msgstr ""
+
+#: inc/functions-utilities.php:667
+msgid "git-square"
+msgstr ""
+
+#: inc/functions-utilities.php:668
+msgid "github"
+msgstr ""
+
+#: inc/functions-utilities.php:669
+msgid "github-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:670
+msgid "github-square"
+msgstr ""
+
+#: inc/functions-utilities.php:671
+msgid "gitkraken"
+msgstr ""
+
+#: inc/functions-utilities.php:672
+msgid "gitlab"
+msgstr ""
+
+#: inc/functions-utilities.php:673
+msgid "gitter"
+msgstr ""
+
+#: inc/functions-utilities.php:674
+msgid "glass-martini"
+msgstr ""
+
+#: inc/functions-utilities.php:675
+msgid "glide"
+msgstr ""
+
+#: inc/functions-utilities.php:676
+msgid "glide-g"
+msgstr ""
+
+#: inc/functions-utilities.php:677
+msgid "globe"
+msgstr ""
+
+#: inc/functions-utilities.php:678
+msgid "gofore"
+msgstr ""
+
+#: inc/functions-utilities.php:679
+msgid "golf-ball"
+msgstr ""
+
+#: inc/functions-utilities.php:680
+msgid "goodreads"
+msgstr ""
+
+#: inc/functions-utilities.php:681
+msgid "goodreads-g"
+msgstr ""
+
+#: inc/functions-utilities.php:682
+msgid "google"
+msgstr ""
+
+#: inc/functions-utilities.php:683
+msgid "google-drive"
+msgstr ""
+
+#: inc/functions-utilities.php:684
+msgid "google-play"
+msgstr ""
+
+#: inc/functions-utilities.php:685
+msgid "google-plus"
+msgstr ""
+
+#: inc/functions-utilities.php:686
+msgid "google-plus-g"
+msgstr ""
+
+#: inc/functions-utilities.php:687
+msgid "google-plus-square"
+msgstr ""
+
+#: inc/functions-utilities.php:688
+msgid "google-wallet"
+msgstr ""
+
+#: inc/functions-utilities.php:689
+msgid "graduation-cap"
+msgstr ""
+
+#: inc/functions-utilities.php:690
+msgid "gratipay"
+msgstr ""
+
+#: inc/functions-utilities.php:691
+msgid "grav"
+msgstr ""
+
+#: inc/functions-utilities.php:692
+msgid "gripfire"
+msgstr ""
+
+#: inc/functions-utilities.php:693
+msgid "grunt"
+msgstr ""
+
+#: inc/functions-utilities.php:694
+msgid "gulp"
+msgstr ""
+
+#: inc/functions-utilities.php:695
+msgid "h-square"
+msgstr ""
+
+#: inc/functions-utilities.php:696
+msgid "hacker-news"
+msgstr ""
+
+#: inc/functions-utilities.php:697
+msgid "hacker-news-square"
+msgstr ""
+
+#: inc/functions-utilities.php:698
+msgid "hand-holding"
+msgstr ""
+
+#: inc/functions-utilities.php:699
+msgid "hand-holding-heart"
+msgstr ""
+
+#: inc/functions-utilities.php:700
+msgid "hand-holding-usd"
+msgstr ""
+
+#: inc/functions-utilities.php:701 inc/functions-utilities.php:702
+msgid "hand-lizard"
+msgstr ""
+
+#: inc/functions-utilities.php:703 inc/functions-utilities.php:704
+msgid "hand-paper"
+msgstr ""
+
+#: inc/functions-utilities.php:705 inc/functions-utilities.php:706
+msgid "hand-peace"
+msgstr ""
+
+#: inc/functions-utilities.php:707 inc/functions-utilities.php:708
+msgid "hand-point-down"
+msgstr ""
+
+#: inc/functions-utilities.php:709 inc/functions-utilities.php:710
+msgid "hand-point-left"
+msgstr ""
+
+#: inc/functions-utilities.php:711 inc/functions-utilities.php:712
+msgid "hand-point-right"
+msgstr ""
+
+#: inc/functions-utilities.php:713 inc/functions-utilities.php:714
+msgid "hand-point-up"
+msgstr ""
+
+#: inc/functions-utilities.php:715 inc/functions-utilities.php:716
+msgid "hand-pointer"
+msgstr ""
+
+#: inc/functions-utilities.php:717 inc/functions-utilities.php:718
+msgid "hand-rock"
+msgstr ""
+
+#: inc/functions-utilities.php:719 inc/functions-utilities.php:720
+msgid "hand-scissors"
+msgstr ""
+
+#: inc/functions-utilities.php:721 inc/functions-utilities.php:722
+msgid "hand-spock"
+msgstr ""
+
+#: inc/functions-utilities.php:723
+msgid "hands"
+msgstr ""
+
+#: inc/functions-utilities.php:724
+msgid "hands-helping"
+msgstr ""
+
+#: inc/functions-utilities.php:725 inc/functions-utilities.php:726
+msgid "handshake"
+msgstr ""
+
+#: inc/functions-utilities.php:727
+msgid "hashtag"
+msgstr ""
+
+#: inc/functions-utilities.php:728 inc/functions-utilities.php:729
+msgid "hdd"
+msgstr ""
+
+#: inc/functions-utilities.php:730
+msgid "heading"
+msgstr ""
+
+#: inc/functions-utilities.php:731
+msgid "headphones"
+msgstr ""
+
+#: inc/functions-utilities.php:732 inc/functions-utilities.php:733
+msgid "heart"
+msgstr ""
+
+#: inc/functions-utilities.php:734
+msgid "heartbeat"
+msgstr ""
+
+#: inc/functions-utilities.php:735
+msgid "hips"
+msgstr ""
+
+#: inc/functions-utilities.php:736
+msgid "hire-a-helper"
+msgstr ""
+
+#: inc/functions-utilities.php:737
+msgid "history"
+msgstr ""
+
+#: inc/functions-utilities.php:738
+msgid "hockey-puck"
+msgstr ""
+
+#: inc/functions-utilities.php:739
+msgid "home"
+msgstr ""
+
+#: inc/functions-utilities.php:740
+msgid "hooli"
+msgstr ""
+
+#: inc/functions-utilities.php:741 inc/functions-utilities.php:742
+msgid "hospital"
+msgstr ""
+
+#: inc/functions-utilities.php:743
+msgid "hospital-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:744
+msgid "hospital-symbol"
+msgstr ""
+
+#: inc/functions-utilities.php:745
+msgid "hotjar"
+msgstr ""
+
+#: inc/functions-utilities.php:746 inc/functions-utilities.php:747
+msgid "hourglass"
+msgstr ""
+
+#: inc/functions-utilities.php:748
+msgid "hourglass-end"
+msgstr ""
+
+#: inc/functions-utilities.php:749
+msgid "hourglass-half"
+msgstr ""
+
+#: inc/functions-utilities.php:750
+msgid "hourglass-start"
+msgstr ""
+
+#: inc/functions-utilities.php:751
+msgid "houzz"
+msgstr ""
+
+#: inc/functions-utilities.php:752
+msgid "html5"
+msgstr ""
+
+#: inc/functions-utilities.php:753
+msgid "hubspot"
+msgstr ""
+
+#: inc/functions-utilities.php:754
+msgid "i-cursor"
+msgstr ""
+
+#: inc/functions-utilities.php:755 inc/functions-utilities.php:756
+msgid "id-badge"
+msgstr ""
+
+#: inc/functions-utilities.php:757 inc/functions-utilities.php:758
+msgid "id-card"
+msgstr ""
+
+#: inc/functions-utilities.php:759
+msgid "id-card-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:760 inc/functions-utilities.php:761
+msgid "image"
+msgstr ""
+
+#: inc/functions-utilities.php:762 inc/functions-utilities.php:763
+msgid "images"
+msgstr ""
+
+#: inc/functions-utilities.php:764
+msgid "imdb"
+msgstr ""
+
+#: inc/functions-utilities.php:765
+msgid "inbox"
+msgstr ""
+
+#: inc/functions-utilities.php:766
+msgid "indent"
+msgstr ""
+
+#: inc/functions-utilities.php:767
+msgid "industry"
+msgstr ""
+
+#: inc/functions-utilities.php:768
+msgid "info"
+msgstr ""
+
+#: inc/functions-utilities.php:769
+msgid "info-circle"
+msgstr ""
+
+#: inc/functions-utilities.php:770
+msgid "instagram"
+msgstr ""
+
+#: inc/functions-utilities.php:771
+msgid "internet-explorer"
+msgstr ""
+
+#: inc/functions-utilities.php:772
+msgid "ioxhost"
+msgstr ""
+
+#: inc/functions-utilities.php:773
+msgid "italic"
+msgstr ""
+
+#: inc/functions-utilities.php:774
+msgid "itunes"
+msgstr ""
+
+#: inc/functions-utilities.php:775
+msgid "itunes-note"
+msgstr ""
+
+#: inc/functions-utilities.php:776
+msgid "java"
+msgstr ""
+
+#: inc/functions-utilities.php:777
+msgid "jenkins"
+msgstr ""
+
+#: inc/functions-utilities.php:778
+msgid "joget"
+msgstr ""
+
+#: inc/functions-utilities.php:779
+msgid "joomla"
+msgstr ""
+
+#: inc/functions-utilities.php:780
+msgid "js"
+msgstr ""
+
+#: inc/functions-utilities.php:781
+msgid "js-square"
+msgstr ""
+
+#: inc/functions-utilities.php:782
+msgid "jsfiddle"
+msgstr ""
+
+#: inc/functions-utilities.php:783
+msgid "key"
+msgstr ""
+
+#: inc/functions-utilities.php:784 inc/functions-utilities.php:785
+msgid "keyboard"
+msgstr ""
+
+#: inc/functions-utilities.php:786
+msgid "keycdn"
+msgstr ""
+
+#: inc/functions-utilities.php:787
+msgid "kickstarter"
+msgstr ""
+
+#: inc/functions-utilities.php:788
+msgid "kickstarter-k"
+msgstr ""
+
+#: inc/functions-utilities.php:789
+msgid "korvue"
+msgstr ""
+
+#: inc/functions-utilities.php:790
+msgid "language"
+msgstr ""
+
+#: inc/functions-utilities.php:791
+msgid "laptop"
+msgstr ""
+
+#: inc/functions-utilities.php:792
+msgid "laravel"
+msgstr ""
+
+#: inc/functions-utilities.php:793
+msgid "lastfm"
+msgstr ""
+
+#: inc/functions-utilities.php:794
+msgid "lastfm-square"
+msgstr ""
+
+#: inc/functions-utilities.php:795
+msgid "leaf"
+msgstr ""
+
+#: inc/functions-utilities.php:796
+msgid "leanpub"
+msgstr ""
+
+#: inc/functions-utilities.php:797 inc/functions-utilities.php:798
+msgid "lemon"
+msgstr ""
+
+#: inc/functions-utilities.php:799
+msgid "less"
+msgstr ""
+
+#: inc/functions-utilities.php:800
+msgid "level-down-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:801
+msgid "level-up-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:802 inc/functions-utilities.php:803
+msgid "life-ring"
+msgstr ""
+
+#: inc/functions-utilities.php:804 inc/functions-utilities.php:805
+msgid "lightbulb"
+msgstr ""
+
+#: inc/functions-utilities.php:806
+msgid "line"
+msgstr ""
+
+#: inc/functions-utilities.php:807
+msgid "link"
+msgstr ""
+
+#: inc/functions-utilities.php:808
+msgid "linkedin"
+msgstr ""
+
+#: inc/functions-utilities.php:809
+msgid "linkedin-in"
+msgstr ""
+
+#: inc/functions-utilities.php:810
+msgid "linode"
+msgstr ""
+
+#: inc/functions-utilities.php:811
+msgid "linux"
+msgstr ""
+
+#: inc/functions-utilities.php:812
+msgid "lira-sign"
+msgstr ""
+
+#: inc/functions-utilities.php:813
+msgid "list"
+msgstr ""
+
+#: inc/functions-utilities.php:814 inc/functions-utilities.php:815
+msgid "list-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:816
+msgid "list-ol"
+msgstr ""
+
+#: inc/functions-utilities.php:817
+msgid "list-ul"
+msgstr ""
+
+#: inc/functions-utilities.php:818
+msgid "location-arrow"
+msgstr ""
+
+#: inc/functions-utilities.php:819
+msgid "lock"
+msgstr ""
+
+#: inc/functions-utilities.php:820
+msgid "lock-open"
+msgstr ""
+
+#: inc/functions-utilities.php:821
+msgid "long-arrow-alt-down"
+msgstr ""
+
+#: inc/functions-utilities.php:822
+msgid "long-arrow-alt-left"
+msgstr ""
+
+#: inc/functions-utilities.php:823
+msgid "long-arrow-alt-right"
+msgstr ""
+
+#: inc/functions-utilities.php:824
+msgid "long-arrow-alt-up"
+msgstr ""
+
+#: inc/functions-utilities.php:825
+msgid "low-vision"
+msgstr ""
+
+#: inc/functions-utilities.php:826
+msgid "lyft"
+msgstr ""
+
+#: inc/functions-utilities.php:827
+msgid "magento"
+msgstr ""
+
+#: inc/functions-utilities.php:828
+msgid "magic"
+msgstr ""
+
+#: inc/functions-utilities.php:829
+msgid "magnet"
+msgstr ""
+
+#: inc/functions-utilities.php:830
+msgid "male"
+msgstr ""
+
+#: inc/functions-utilities.php:831 inc/functions-utilities.php:832
+msgid "map"
+msgstr ""
+
+#: inc/functions-utilities.php:833
+msgid "map-marker"
+msgstr ""
+
+#: inc/functions-utilities.php:834
+msgid "map-marker-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:835
+msgid "map-pin"
+msgstr ""
+
+#: inc/functions-utilities.php:836
+msgid "map-signs"
+msgstr ""
+
+#: inc/functions-utilities.php:837
+msgid "mars"
+msgstr ""
+
+#: inc/functions-utilities.php:838
+msgid "mars-double"
+msgstr ""
+
+#: inc/functions-utilities.php:839
+msgid "mars-stroke"
+msgstr ""
+
+#: inc/functions-utilities.php:840
+msgid "mars-stroke-h"
+msgstr ""
+
+#: inc/functions-utilities.php:841
+msgid "mars-stroke-v"
+msgstr ""
+
+#: inc/functions-utilities.php:842
+msgid "maxcdn"
+msgstr ""
+
+#: inc/functions-utilities.php:843
+msgid "medapps"
+msgstr ""
+
+#: inc/functions-utilities.php:844
+msgid "medium"
+msgstr ""
+
+#: inc/functions-utilities.php:845
+msgid "medium-m"
+msgstr ""
+
+#: inc/functions-utilities.php:846
+msgid "medkit"
+msgstr ""
+
+#: inc/functions-utilities.php:847
+msgid "medrt"
+msgstr ""
+
+#: inc/functions-utilities.php:848
+msgid "meetup"
+msgstr ""
+
+#: inc/functions-utilities.php:849 inc/functions-utilities.php:850
+msgid "meh"
+msgstr ""
+
+#: inc/functions-utilities.php:851
+msgid "mercury"
+msgstr ""
+
+#: inc/functions-utilities.php:852
+msgid "microchip"
+msgstr ""
+
+#: inc/functions-utilities.php:853
+msgid "microphone"
+msgstr ""
+
+#: inc/functions-utilities.php:854
+msgid "microphone-slash"
+msgstr ""
+
+#: inc/functions-utilities.php:855
+msgid "microsoft"
+msgstr ""
+
+#: inc/functions-utilities.php:856
+msgid "minus"
+msgstr ""
+
+#: inc/functions-utilities.php:857
+msgid "minus-circle"
+msgstr ""
+
+#: inc/functions-utilities.php:858 inc/functions-utilities.php:859
+msgid "minus-square"
+msgstr ""
+
+#: inc/functions-utilities.php:860
+msgid "mix"
+msgstr ""
+
+#: inc/functions-utilities.php:861
+msgid "mixcloud"
+msgstr ""
+
+#: inc/functions-utilities.php:862
+msgid "mizuni"
+msgstr ""
+
+#: inc/functions-utilities.php:863
+msgid "mobile"
+msgstr ""
+
+#: inc/functions-utilities.php:864
+msgid "mobile-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:865
+msgid "modx"
+msgstr ""
+
+#: inc/functions-utilities.php:866
+msgid "monero"
+msgstr ""
+
+#: inc/functions-utilities.php:867 inc/functions-utilities.php:868
+msgid "money-bill-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:869 inc/functions-utilities.php:870
+msgid "moon"
+msgstr ""
+
+#: inc/functions-utilities.php:871
+msgid "motorcycle"
+msgstr ""
+
+#: inc/functions-utilities.php:872
+msgid "mouse-pointer"
+msgstr ""
+
+#: inc/functions-utilities.php:873
+msgid "music"
+msgstr ""
+
+#: inc/functions-utilities.php:874
+msgid "napster"
+msgstr ""
+
+#: inc/functions-utilities.php:875
+msgid "neuter"
+msgstr ""
+
+#: inc/functions-utilities.php:876 inc/functions-utilities.php:877
+msgid "newspaper"
+msgstr ""
+
+#: inc/functions-utilities.php:878
+msgid "nintendo-switch"
+msgstr ""
+
+#: inc/functions-utilities.php:879
+msgid "node"
+msgstr ""
+
+#: inc/functions-utilities.php:880
+msgid "node-js"
+msgstr ""
+
+#: inc/functions-utilities.php:881
+msgid "notes-medical"
+msgstr ""
+
+#: inc/functions-utilities.php:882
+msgid "npm"
+msgstr ""
+
+#: inc/functions-utilities.php:883
+msgid "ns8"
+msgstr ""
+
+#: inc/functions-utilities.php:884
+msgid "nutritionix"
+msgstr ""
+
+#: inc/functions-utilities.php:885 inc/functions-utilities.php:886
+msgid "object-group"
+msgstr ""
+
+#: inc/functions-utilities.php:887 inc/functions-utilities.php:888
+msgid "object-ungroup"
+msgstr ""
+
+#: inc/functions-utilities.php:889
+msgid "odnoklassniki"
+msgstr ""
+
+#: inc/functions-utilities.php:890
+msgid "odnoklassniki-square"
+msgstr ""
+
+#: inc/functions-utilities.php:891
+msgid "opencart"
+msgstr ""
+
+#: inc/functions-utilities.php:892
+msgid "openid"
+msgstr ""
+
+#: inc/functions-utilities.php:893
+msgid "opera"
+msgstr ""
+
+#: inc/functions-utilities.php:894
+msgid "optin-monster"
+msgstr ""
+
+#: inc/functions-utilities.php:895
+msgid "osi"
+msgstr ""
+
+#: inc/functions-utilities.php:896
+msgid "outdent"
+msgstr ""
+
+#: inc/functions-utilities.php:897
+msgid "page4"
+msgstr ""
+
+#: inc/functions-utilities.php:898
+msgid "pagelines"
+msgstr ""
+
+#: inc/functions-utilities.php:899
+msgid "paint-brush"
+msgstr ""
+
+#: inc/functions-utilities.php:900
+msgid "palfed"
+msgstr ""
+
+#: inc/functions-utilities.php:901
+msgid "pallet"
+msgstr ""
+
+#: inc/functions-utilities.php:902 inc/functions-utilities.php:903
+msgid "paper-plane"
+msgstr ""
+
+#: inc/functions-utilities.php:904
+msgid "paperclip"
+msgstr ""
+
+#: inc/functions-utilities.php:905
+msgid "parachute-box"
+msgstr ""
+
+#: inc/functions-utilities.php:906
+msgid "paragraph"
+msgstr ""
+
+#: inc/functions-utilities.php:907
+msgid "paste"
+msgstr ""
+
+#: inc/functions-utilities.php:908
+msgid "patreon"
+msgstr ""
+
+#: inc/functions-utilities.php:909
+msgid "pause"
+msgstr ""
+
+#: inc/functions-utilities.php:910 inc/functions-utilities.php:911
+msgid "pause-circle"
+msgstr ""
+
+#: inc/functions-utilities.php:912
+msgid "paw"
+msgstr ""
+
+#: inc/functions-utilities.php:913
+msgid "paypal"
+msgstr ""
+
+#: inc/functions-utilities.php:914
+msgid "pen-square"
+msgstr ""
+
+#: inc/functions-utilities.php:915
+msgid "pencil-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:916
+msgid "people-carry"
+msgstr ""
+
+#: inc/functions-utilities.php:917
+msgid "percent"
+msgstr ""
+
+#: inc/functions-utilities.php:918
+msgid "periscope"
+msgstr ""
+
+#: inc/functions-utilities.php:919
+msgid "phabricator"
+msgstr ""
+
+#: inc/functions-utilities.php:920
+msgid "phoenix-framework"
+msgstr ""
+
+#: inc/functions-utilities.php:921
+msgid "phone"
+msgstr ""
+
+#: inc/functions-utilities.php:922
+msgid "phone-slash"
+msgstr ""
+
+#: inc/functions-utilities.php:923
+msgid "phone-square"
+msgstr ""
+
+#: inc/functions-utilities.php:924
+msgid "phone-volume"
+msgstr ""
+
+#: inc/functions-utilities.php:925
+msgid "php"
+msgstr ""
+
+#: inc/functions-utilities.php:926
+msgid "pied-piper"
+msgstr ""
+
+#: inc/functions-utilities.php:927
+msgid "pied-piper-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:928
+msgid "pied-piper-hat"
+msgstr ""
+
+#: inc/functions-utilities.php:929
+msgid "pied-piper-pp"
+msgstr ""
+
+#: inc/functions-utilities.php:930
+msgid "piggy-bank"
+msgstr ""
+
+#: inc/functions-utilities.php:931
+msgid "pills"
+msgstr ""
+
+#: inc/functions-utilities.php:932
+msgid "pinterest"
+msgstr ""
+
+#: inc/functions-utilities.php:933
+msgid "pinterest-p"
+msgstr ""
+
+#: inc/functions-utilities.php:934
+msgid "pinterest-square"
+msgstr ""
+
+#: inc/functions-utilities.php:935
+msgid "plane"
+msgstr ""
+
+#: inc/functions-utilities.php:936
+msgid "play"
+msgstr ""
+
+#: inc/functions-utilities.php:937 inc/functions-utilities.php:938
+msgid "play-circle"
+msgstr ""
+
+#: inc/functions-utilities.php:939
+msgid "playstation"
+msgstr ""
+
+#: inc/functions-utilities.php:940
+msgid "plug"
+msgstr ""
+
+#: inc/functions-utilities.php:941
+msgid "plus"
+msgstr ""
+
+#: inc/functions-utilities.php:942
+msgid "plus-circle"
+msgstr ""
+
+#: inc/functions-utilities.php:943 inc/functions-utilities.php:944
+msgid "plus-square"
+msgstr ""
+
+#: inc/functions-utilities.php:945
+msgid "podcast"
+msgstr ""
+
+#: inc/functions-utilities.php:946
+msgid "poo"
+msgstr ""
+
+#: inc/functions-utilities.php:947
+msgid "pound-sign"
+msgstr ""
+
+#: inc/functions-utilities.php:948
+msgid "power-off"
+msgstr ""
+
+#: inc/functions-utilities.php:949
+msgid "prescription-bottle"
+msgstr ""
+
+#: inc/functions-utilities.php:950
+msgid "prescription-bottle-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:951
+msgid "print"
+msgstr ""
+
+#: inc/functions-utilities.php:952
+msgid "procedures"
+msgstr ""
+
+#: inc/functions-utilities.php:953
+msgid "product-hunt"
+msgstr ""
+
+#: inc/functions-utilities.php:954
+msgid "pushed"
+msgstr ""
+
+#: inc/functions-utilities.php:955
+msgid "puzzle-piece"
+msgstr ""
+
+#: inc/functions-utilities.php:956
+msgid "python"
+msgstr ""
+
+#: inc/functions-utilities.php:957
+msgid "qq"
+msgstr ""
+
+#: inc/functions-utilities.php:958
+msgid "qrcode"
+msgstr ""
+
+#: inc/functions-utilities.php:959
+msgid "question"
+msgstr ""
+
+#: inc/functions-utilities.php:960 inc/functions-utilities.php:961
+msgid "question-circle"
+msgstr ""
+
+#: inc/functions-utilities.php:962
+msgid "quidditch"
+msgstr ""
+
+#: inc/functions-utilities.php:963
+msgid "quinscape"
+msgstr ""
+
+#: inc/functions-utilities.php:964
+msgid "quora"
+msgstr ""
+
+#: inc/functions-utilities.php:965
+msgid "quote-left"
+msgstr ""
+
+#: inc/functions-utilities.php:966
+msgid "quote-right"
+msgstr ""
+
+#: inc/functions-utilities.php:967
+msgid "random"
+msgstr ""
+
+#: inc/functions-utilities.php:968
+msgid "ravelry"
+msgstr ""
+
+#: inc/functions-utilities.php:969
+msgid "react"
+msgstr ""
+
+#: inc/functions-utilities.php:970
+msgid "readme"
+msgstr ""
+
+#: inc/functions-utilities.php:971
+msgid "rebel"
+msgstr ""
+
+#: inc/functions-utilities.php:972
+msgid "recycle"
+msgstr ""
+
+#: inc/functions-utilities.php:973
+msgid "red-river"
+msgstr ""
+
+#: inc/functions-utilities.php:974
+msgid "reddit"
+msgstr ""
+
+#: inc/functions-utilities.php:975
+msgid "reddit-alien"
+msgstr ""
+
+#: inc/functions-utilities.php:976
+msgid "reddit-square"
+msgstr ""
+
+#: inc/functions-utilities.php:977
+msgid "redo"
+msgstr ""
+
+#: inc/functions-utilities.php:978
+msgid "redo-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:979 inc/functions-utilities.php:980
+msgid "registered"
+msgstr ""
+
+#: inc/functions-utilities.php:981
+msgid "rendact"
+msgstr ""
+
+#: inc/functions-utilities.php:982
+msgid "renren"
+msgstr ""
+
+#: inc/functions-utilities.php:983
+msgid "reply"
+msgstr ""
+
+#: inc/functions-utilities.php:984
+msgid "reply-all"
+msgstr ""
+
+#: inc/functions-utilities.php:985
+msgid "replyd"
+msgstr ""
+
+#: inc/functions-utilities.php:986
+msgid "resolving"
+msgstr ""
+
+#: inc/functions-utilities.php:987
+msgid "retweet"
+msgstr ""
+
+#: inc/functions-utilities.php:988
+msgid "ribbon"
+msgstr ""
+
+#: inc/functions-utilities.php:989
+msgid "road"
+msgstr ""
+
+#: inc/functions-utilities.php:990
+msgid "rocket"
+msgstr ""
+
+#: inc/functions-utilities.php:991
+msgid "rocketchat"
+msgstr ""
+
+#: inc/functions-utilities.php:992
+msgid "rockrms"
+msgstr ""
+
+#: inc/functions-utilities.php:993
+msgid "rss"
+msgstr ""
+
+#: inc/functions-utilities.php:994
+msgid "rss-square"
+msgstr ""
+
+#: inc/functions-utilities.php:995
+msgid "ruble-sign"
+msgstr ""
+
+#: inc/functions-utilities.php:996
+msgid "rupee-sign"
+msgstr ""
+
+#: inc/functions-utilities.php:997
+msgid "safari"
+msgstr ""
+
+#: inc/functions-utilities.php:998
+msgid "sass"
+msgstr ""
+
+#: inc/functions-utilities.php:999 inc/functions-utilities.php:1000
+msgid "save"
+msgstr ""
+
+#: inc/functions-utilities.php:1001
+msgid "schlix"
+msgstr ""
+
+#: inc/functions-utilities.php:1002
+msgid "scribd"
+msgstr ""
+
+#: inc/functions-utilities.php:1003
+msgid "search"
+msgstr ""
+
+#: inc/functions-utilities.php:1004
+msgid "search-minus"
+msgstr ""
+
+#: inc/functions-utilities.php:1005
+msgid "search-plus"
+msgstr ""
+
+#: inc/functions-utilities.php:1006
+msgid "searchengin"
+msgstr ""
+
+#: inc/functions-utilities.php:1007
+msgid "seedling"
+msgstr ""
+
+#: inc/functions-utilities.php:1008
+msgid "sellcast"
+msgstr ""
+
+#: inc/functions-utilities.php:1009
+msgid "sellsy"
+msgstr ""
+
+#: inc/functions-utilities.php:1010
+msgid "server"
+msgstr ""
+
+#: inc/functions-utilities.php:1011
+msgid "servicestack"
+msgstr ""
+
+#: inc/functions-utilities.php:1012
+msgid "share"
+msgstr ""
+
+#: inc/functions-utilities.php:1013
+msgid "share-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:1014
+msgid "share-alt-square"
+msgstr ""
+
+#: inc/functions-utilities.php:1015 inc/functions-utilities.php:1016
+msgid "share-square"
+msgstr ""
+
+#: inc/functions-utilities.php:1017
+msgid "shekel-sign"
+msgstr ""
+
+#: inc/functions-utilities.php:1018
+msgid "shield-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:1019
+msgid "ship"
+msgstr ""
+
+#: inc/functions-utilities.php:1020
+msgid "shipping-fast"
+msgstr ""
+
+#: inc/functions-utilities.php:1021
+msgid "shirtsinbulk"
+msgstr ""
+
+#: inc/functions-utilities.php:1022
+msgid "shopping-bag"
+msgstr ""
+
+#: inc/functions-utilities.php:1023
+msgid "shopping-basket"
+msgstr ""
+
+#: inc/functions-utilities.php:1024
+msgid "shopping-cart"
+msgstr ""
+
+#: inc/functions-utilities.php:1025
+msgid "shower"
+msgstr ""
+
+#: inc/functions-utilities.php:1026
+msgid "sign"
+msgstr ""
+
+#: inc/functions-utilities.php:1027
+msgid "sign-in-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:1028
+msgid "sign-language"
+msgstr ""
+
+#: inc/functions-utilities.php:1029
+msgid "sign-out-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:1030
+msgid "signal"
+msgstr ""
+
+#: inc/functions-utilities.php:1031
+msgid "simplybuilt"
+msgstr ""
+
+#: inc/functions-utilities.php:1032
+msgid "sistrix"
+msgstr ""
+
+#: inc/functions-utilities.php:1033
+msgid "sitemap"
+msgstr ""
+
+#: inc/functions-utilities.php:1034
+msgid "skyatlas"
+msgstr ""
+
+#: inc/functions-utilities.php:1035
+msgid "skype"
+msgstr ""
+
+#: inc/functions-utilities.php:1036
+msgid "slack"
+msgstr ""
+
+#: inc/functions-utilities.php:1037
+msgid "slack-hash"
+msgstr ""
+
+#: inc/functions-utilities.php:1038
+msgid "sliders-h"
+msgstr ""
+
+#: inc/functions-utilities.php:1039
+msgid "slideshare"
+msgstr ""
+
+#: inc/functions-utilities.php:1040 inc/functions-utilities.php:1041
+msgid "smile"
+msgstr ""
+
+#: inc/functions-utilities.php:1042
+msgid "smoking"
+msgstr ""
+
+#: inc/functions-utilities.php:1043
+msgid "snapchat"
+msgstr ""
+
+#: inc/functions-utilities.php:1044
+msgid "snapchat-ghost"
+msgstr ""
+
+#: inc/functions-utilities.php:1045
+msgid "snapchat-square"
+msgstr ""
+
+#: inc/functions-utilities.php:1046 inc/functions-utilities.php:1047
+msgid "snowflake"
+msgstr ""
+
+#: inc/functions-utilities.php:1048
+msgid "sort"
+msgstr ""
+
+#: inc/functions-utilities.php:1049
+msgid "sort-alpha-down"
+msgstr ""
+
+#: inc/functions-utilities.php:1050
+msgid "sort-alpha-up"
+msgstr ""
+
+#: inc/functions-utilities.php:1051
+msgid "sort-amount-down"
+msgstr ""
+
+#: inc/functions-utilities.php:1052
+msgid "sort-amount-up"
+msgstr ""
+
+#: inc/functions-utilities.php:1053
+msgid "sort-down"
+msgstr ""
+
+#: inc/functions-utilities.php:1054
+msgid "sort-numeric-down"
+msgstr ""
+
+#: inc/functions-utilities.php:1055
+msgid "sort-numeric-up"
+msgstr ""
+
+#: inc/functions-utilities.php:1056
+msgid "sort-up"
+msgstr ""
+
+#: inc/functions-utilities.php:1057
+msgid "soundcloud"
+msgstr ""
+
+#: inc/functions-utilities.php:1058
+msgid "space-shuttle"
+msgstr ""
+
+#: inc/functions-utilities.php:1059
+msgid "speakap"
+msgstr ""
+
+#: inc/functions-utilities.php:1060
+msgid "spinner"
+msgstr ""
+
+#: inc/functions-utilities.php:1061
+msgid "spotify"
+msgstr ""
+
+#: inc/functions-utilities.php:1062 inc/functions-utilities.php:1063
+msgid "square"
+msgstr ""
+
+#: inc/functions-utilities.php:1064
+msgid "square-full"
+msgstr ""
+
+#: inc/functions-utilities.php:1065
+msgid "stack-exchange"
+msgstr ""
+
+#: inc/functions-utilities.php:1066
+msgid "stack-overflow"
+msgstr ""
+
+#: inc/functions-utilities.php:1067 inc/functions-utilities.php:1068
+msgid "star"
+msgstr ""
+
+#: inc/functions-utilities.php:1069 inc/functions-utilities.php:1070
+msgid "star-half"
+msgstr ""
+
+#: inc/functions-utilities.php:1071
+msgid "staylinked"
+msgstr ""
+
+#: inc/functions-utilities.php:1072
+msgid "steam"
+msgstr ""
+
+#: inc/functions-utilities.php:1073
+msgid "steam-square"
+msgstr ""
+
+#: inc/functions-utilities.php:1074
+msgid "steam-symbol"
+msgstr ""
+
+#: inc/functions-utilities.php:1075
+msgid "step-backward"
+msgstr ""
+
+#: inc/functions-utilities.php:1076
+msgid "step-forward"
+msgstr ""
+
+#: inc/functions-utilities.php:1077
+msgid "stethoscope"
+msgstr ""
+
+#: inc/functions-utilities.php:1078
+msgid "sticker-mule"
+msgstr ""
+
+#: inc/functions-utilities.php:1079 inc/functions-utilities.php:1080
+msgid "sticky-note"
+msgstr ""
+
+#: inc/functions-utilities.php:1081
+msgid "stop"
+msgstr ""
+
+#: inc/functions-utilities.php:1082 inc/functions-utilities.php:1083
+msgid "stop-circle"
+msgstr ""
+
+#: inc/functions-utilities.php:1084
+msgid "stopwatch"
+msgstr ""
+
+#: inc/functions-utilities.php:1085
+msgid "strava"
+msgstr ""
+
+#: inc/functions-utilities.php:1086
+msgid "street-view"
+msgstr ""
+
+#: inc/functions-utilities.php:1087
+msgid "strikethrough"
+msgstr ""
+
+#: inc/functions-utilities.php:1088
+msgid "stripe"
+msgstr ""
+
+#: inc/functions-utilities.php:1089
+msgid "stripe-s"
+msgstr ""
+
+#: inc/functions-utilities.php:1090
+msgid "studiovinari"
+msgstr ""
+
+#: inc/functions-utilities.php:1091
+msgid "stumbleupon"
+msgstr ""
+
+#: inc/functions-utilities.php:1092
+msgid "stumbleupon-circle"
+msgstr ""
+
+#: inc/functions-utilities.php:1093
+msgid "subscript"
+msgstr ""
+
+#: inc/functions-utilities.php:1094
+msgid "subway"
+msgstr ""
+
+#: inc/functions-utilities.php:1095
+msgid "suitcase"
+msgstr ""
+
+#: inc/functions-utilities.php:1096 inc/functions-utilities.php:1097
+msgid "sun"
+msgstr ""
+
+#: inc/functions-utilities.php:1098
+msgid "superpowers"
+msgstr ""
+
+#: inc/functions-utilities.php:1099
+msgid "superscript"
+msgstr ""
+
+#: inc/functions-utilities.php:1100
+msgid "supple"
+msgstr ""
+
+#: inc/functions-utilities.php:1101
+msgid "sync"
+msgstr ""
+
+#: inc/functions-utilities.php:1102
+msgid "sync-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:1103
+msgid "syringe"
+msgstr ""
+
+#: inc/functions-utilities.php:1104
+msgid "table"
+msgstr ""
+
+#: inc/functions-utilities.php:1105
+msgid "table-tennis"
+msgstr ""
+
+#: inc/functions-utilities.php:1106
+msgid "tablet"
+msgstr ""
+
+#: inc/functions-utilities.php:1107
+msgid "tablet-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:1108
+msgid "tablets"
+msgstr ""
+
+#: inc/functions-utilities.php:1109
+msgid "tachometer-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:1110
+msgid "tag"
+msgstr ""
+
+#: inc/functions-utilities.php:1111
+msgid "tags"
+msgstr ""
+
+#: inc/functions-utilities.php:1112
+msgid "tape"
+msgstr ""
+
+#: inc/functions-utilities.php:1113
+msgid "tasks"
+msgstr ""
+
+#: inc/functions-utilities.php:1114
+msgid "taxi"
+msgstr ""
+
+#: inc/functions-utilities.php:1115
+msgid "telegram"
+msgstr ""
+
+#: inc/functions-utilities.php:1116
+msgid "telegram-plane"
+msgstr ""
+
+#: inc/functions-utilities.php:1117
+msgid "tencent-weibo"
+msgstr ""
+
+#: inc/functions-utilities.php:1118
+msgid "terminal"
+msgstr ""
+
+#: inc/functions-utilities.php:1119
+msgid "text-height"
+msgstr ""
+
+#: inc/functions-utilities.php:1120
+msgid "text-width"
+msgstr ""
+
+#: inc/functions-utilities.php:1121
+msgid "th"
+msgstr ""
+
+#: inc/functions-utilities.php:1122
+msgid "th-large"
+msgstr ""
+
+#: inc/functions-utilities.php:1123
+msgid "th-list"
+msgstr ""
+
+#: inc/functions-utilities.php:1124
+msgid "themeisle"
+msgstr ""
+
+#: inc/functions-utilities.php:1125
+msgid "thermometer"
+msgstr ""
+
+#: inc/functions-utilities.php:1126
+msgid "thermometer-empty"
+msgstr ""
+
+#: inc/functions-utilities.php:1127
+msgid "thermometer-full"
+msgstr ""
+
+#: inc/functions-utilities.php:1128
+msgid "thermometer-half"
+msgstr ""
+
+#: inc/functions-utilities.php:1129
+msgid "thermometer-quarter"
+msgstr ""
+
+#: inc/functions-utilities.php:1130
+msgid "thermometer-three-quarters"
+msgstr ""
+
+#: inc/functions-utilities.php:1131 inc/functions-utilities.php:1132
+msgid "thumbs-down"
+msgstr ""
+
+#: inc/functions-utilities.php:1133 inc/functions-utilities.php:1134
+msgid "thumbs-up"
+msgstr ""
+
+#: inc/functions-utilities.php:1135
+msgid "thumbtack"
+msgstr ""
+
+#: inc/functions-utilities.php:1136
+msgid "ticket-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:1137
+msgid "times"
+msgstr ""
+
+#: inc/functions-utilities.php:1138 inc/functions-utilities.php:1139
+msgid "times-circle"
+msgstr ""
+
+#: inc/functions-utilities.php:1140
+msgid "tint"
+msgstr ""
+
+#: inc/functions-utilities.php:1141
+msgid "toggle-off"
+msgstr ""
+
+#: inc/functions-utilities.php:1142
+msgid "toggle-on"
+msgstr ""
+
+#: inc/functions-utilities.php:1143
+msgid "trademark"
+msgstr ""
+
+#: inc/functions-utilities.php:1144
+msgid "train"
+msgstr ""
+
+#: inc/functions-utilities.php:1145
+msgid "transgender"
+msgstr ""
+
+#: inc/functions-utilities.php:1146
+msgid "transgender-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:1147
+msgid "trash"
+msgstr ""
+
+#: inc/functions-utilities.php:1148 inc/functions-utilities.php:1149
+msgid "trash-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:1150
+msgid "tree"
+msgstr ""
+
+#: inc/functions-utilities.php:1151
+msgid "trello"
+msgstr ""
+
+#: inc/functions-utilities.php:1152
+msgid "tripadvisor"
+msgstr ""
+
+#: inc/functions-utilities.php:1153
+msgid "trophy"
+msgstr ""
+
+#: inc/functions-utilities.php:1154
+msgid "truck"
+msgstr ""
+
+#: inc/functions-utilities.php:1155
+msgid "truck-loading"
+msgstr ""
+
+#: inc/functions-utilities.php:1156
+msgid "truck-moving"
+msgstr ""
+
+#: inc/functions-utilities.php:1157
+msgid "tty"
+msgstr ""
+
+#: inc/functions-utilities.php:1158
+msgid "tumblr"
+msgstr ""
+
+#: inc/functions-utilities.php:1159
+msgid "tumblr-square"
+msgstr ""
+
+#: inc/functions-utilities.php:1160
+msgid "tv"
+msgstr ""
+
+#: inc/functions-utilities.php:1161
+msgid "twitch"
+msgstr ""
+
+#: inc/functions-utilities.php:1162
+msgid "twitter"
+msgstr ""
+
+#: inc/functions-utilities.php:1163
+msgid "twitter-square"
+msgstr ""
+
+#: inc/functions-utilities.php:1164
+msgid "typo3"
+msgstr ""
+
+#: inc/functions-utilities.php:1165
+msgid "uber"
+msgstr ""
+
+#: inc/functions-utilities.php:1166
+msgid "uikit"
+msgstr ""
+
+#: inc/functions-utilities.php:1167
+msgid "umbrella"
+msgstr ""
+
+#: inc/functions-utilities.php:1168
+msgid "underline"
+msgstr ""
+
+#: inc/functions-utilities.php:1169
+msgid "undo"
+msgstr ""
+
+#: inc/functions-utilities.php:1170
+msgid "undo-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:1171
+msgid "uniregistry"
+msgstr ""
+
+#: inc/functions-utilities.php:1172
+msgid "universal-access"
+msgstr ""
+
+#: inc/functions-utilities.php:1173
+msgid "university"
+msgstr ""
+
+#: inc/functions-utilities.php:1174
+msgid "unlink"
+msgstr ""
+
+#: inc/functions-utilities.php:1175
+msgid "unlock"
+msgstr ""
+
+#: inc/functions-utilities.php:1176
+msgid "unlock-alt"
+msgstr ""
+
+#: inc/functions-utilities.php:1177
+msgid "untappd"
+msgstr ""
+
+#: inc/functions-utilities.php:1178
+msgid "upload"
+msgstr ""
+
+#: inc/functions-utilities.php:1179
+msgid "usb"
+msgstr ""
+
+#: inc/functions-utilities.php:1180 inc/functions-utilities.php:1181
+msgid "user"
+msgstr ""
+
+#: inc/functions-utilities.php:1182 inc/functions-utilities.php:1183
+msgid "user-circle"
+msgstr ""
+
+#: inc/functions-utilities.php:1184
+msgid "user-md"
+msgstr ""
+
+#: inc/functions-utilities.php:1185
+msgid "user-plus"
+msgstr ""
+
+#: inc/functions-utilities.php:1186
+msgid "user-secret"
+msgstr ""
+
+#: inc/functions-utilities.php:1187
+msgid "user-times"
+msgstr ""
+
+#: inc/functions-utilities.php:1188
+msgid "users"
+msgstr ""
+
+#: inc/functions-utilities.php:1189
+msgid "ussunnah"
+msgstr ""
+
+#: inc/functions-utilities.php:1190
+msgid "utensil-spoon"
+msgstr ""
+
+#: inc/functions-utilities.php:1191
+msgid "utensils"
+msgstr ""
+
+#: inc/functions-utilities.php:1192
+msgid "vaadin"
+msgstr ""
+
+#: inc/functions-utilities.php:1193
+msgid "venus"
+msgstr ""
+
+#: inc/functions-utilities.php:1194
+msgid "venus-double"
+msgstr ""
+
+#: inc/functions-utilities.php:1195
+msgid "venus-mars"
+msgstr ""
+
+#: inc/functions-utilities.php:1196
+msgid "viacoin"
+msgstr ""
+
+#: inc/functions-utilities.php:1197
+msgid "viadeo"
+msgstr ""
+
+#: inc/functions-utilities.php:1198
+msgid "viadeo-square"
+msgstr ""
+
+#: inc/functions-utilities.php:1199
+msgid "vial"
+msgstr ""
+
+#: inc/functions-utilities.php:1200
+msgid "vials"
+msgstr ""
+
+#: inc/functions-utilities.php:1201
+msgid "viber"
+msgstr ""
+
+#: inc/functions-utilities.php:1202
+msgid "video"
+msgstr ""
+
+#: inc/functions-utilities.php:1203
+msgid "video-slash"
+msgstr ""
+
+#: inc/functions-utilities.php:1204
+msgid "vimeo"
+msgstr ""
+
+#: inc/functions-utilities.php:1205
+msgid "vimeo-square"
+msgstr ""
+
+#: inc/functions-utilities.php:1206
+msgid "vimeo-v"
+msgstr ""
+
+#: inc/functions-utilities.php:1207
+msgid "vine"
+msgstr ""
+
+#: inc/functions-utilities.php:1208
+msgid "vk"
+msgstr ""
+
+#: inc/functions-utilities.php:1209
+msgid "vnv"
+msgstr ""
+
+#: inc/functions-utilities.php:1210
+msgid "volleyball-ball"
+msgstr ""
+
+#: inc/functions-utilities.php:1211
+msgid "volume-down"
+msgstr ""
+
+#: inc/functions-utilities.php:1212
+msgid "volume-off"
+msgstr ""
+
+#: inc/functions-utilities.php:1213
+msgid "volume-up"
+msgstr ""
+
+#: inc/functions-utilities.php:1214
+msgid "vuejs"
+msgstr ""
+
+#: inc/functions-utilities.php:1215
+msgid "warehouse"
+msgstr ""
+
+#: inc/functions-utilities.php:1216
+msgid "weibo"
+msgstr ""
+
+#: inc/functions-utilities.php:1217
+msgid "weight"
+msgstr ""
+
+#: inc/functions-utilities.php:1218
+msgid "weixin"
+msgstr ""
+
+#: inc/functions-utilities.php:1219
+msgid "whatsapp"
+msgstr ""
+
+#: inc/functions-utilities.php:1220
+msgid "whatsapp-square"
+msgstr ""
+
+#: inc/functions-utilities.php:1221
+msgid "wheelchair"
+msgstr ""
+
+#: inc/functions-utilities.php:1222
+msgid "whmcs"
+msgstr ""
+
+#: inc/functions-utilities.php:1223
+msgid "wifi"
+msgstr ""
+
+#: inc/functions-utilities.php:1224
+msgid "wikipedia-w"
+msgstr ""
+
+#: inc/functions-utilities.php:1225 inc/functions-utilities.php:1226
+msgid "window-close"
+msgstr ""
+
+#: inc/functions-utilities.php:1227 inc/functions-utilities.php:1228
+msgid "window-maximize"
+msgstr ""
+
+#: inc/functions-utilities.php:1229 inc/functions-utilities.php:1230
+msgid "window-minimize"
+msgstr ""
+
+#: inc/functions-utilities.php:1231 inc/functions-utilities.php:1232
+msgid "window-restore"
+msgstr ""
+
+#: inc/functions-utilities.php:1233
+msgid "windows"
+msgstr ""
+
+#: inc/functions-utilities.php:1234
+msgid "wine-glass"
+msgstr ""
+
+#: inc/functions-utilities.php:1235
+msgid "won-sign"
+msgstr ""
+
+#: inc/functions-utilities.php:1236
+msgid "wordpress"
+msgstr ""
+
+#: inc/functions-utilities.php:1237
+msgid "wordpress-simple"
+msgstr ""
+
+#: inc/functions-utilities.php:1238
+msgid "wpbeginner"
+msgstr ""
+
+#: inc/functions-utilities.php:1239
+msgid "wpexplorer"
+msgstr ""
+
+#: inc/functions-utilities.php:1240
+msgid "wpforms"
+msgstr ""
+
+#: inc/functions-utilities.php:1241
+msgid "wrench"
+msgstr ""
+
+#: inc/functions-utilities.php:1242
+msgid "x-ray"
+msgstr ""
+
+#: inc/functions-utilities.php:1243
+msgid "xbox"
+msgstr ""
+
+#: inc/functions-utilities.php:1244
+msgid "xing"
+msgstr ""
+
+#: inc/functions-utilities.php:1245
+msgid "xing-square"
+msgstr ""
+
+#: inc/functions-utilities.php:1246
+msgid "y-combinator"
+msgstr ""
+
+#: inc/functions-utilities.php:1247
+msgid "yahoo"
+msgstr ""
+
+#: inc/functions-utilities.php:1248
+msgid "yandex"
+msgstr ""
+
+#: inc/functions-utilities.php:1249
+msgid "yandex-international"
+msgstr ""
+
+#: inc/functions-utilities.php:1250
+msgid "yelp"
+msgstr ""
+
+#: inc/functions-utilities.php:1251
+msgid "yen-sign"
+msgstr ""
+
+#: inc/functions-utilities.php:1252
+msgid "yoast"
+msgstr ""
+
+#: inc/functions-utilities.php:1253
+msgid "youtube"
+msgstr ""
+
+#: inc/functions-utilities.php:1254
+msgid "youtube-square"
+msgstr ""
+
+#: inc/functions-woocommerce.php:139
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/functions-woocommerce.php:141
+msgid "Add widgets here to appear in your Shop."
+msgstr ""
+
+#: inc/functions-woocommerce.php:148
+msgid "Product Details Sidebar"
+msgstr ""
+
+#: inc/functions-woocommerce.php:150
+msgid "Add widgets here to appear in your product details page."
+msgstr ""
+
+#: inc/functions-woocommerce.php:198
+msgid "Lost password"
+msgstr ""
+
+#: inc/functions-woocommerce.php:368
+msgid "Availability: "
+msgstr ""
+
+#: inc/functions-woocommerce.php:370
+msgid " In stock"
+msgstr ""
+
+#: inc/functions-woocommerce.php:370 woocommerce/wishlist-view.php:223
+msgid "Out of stock"
+msgstr ""
+
+#: inc/functions-woocommerce.php:396
+msgid "Sold"
+msgstr ""
+
+#: inc/functions-woocommerce.php:399
+msgid "Featured"
+msgstr ""
+
+#: inc/functions-woocommerce.php:443
+#, php-format
+msgid "%s Off"
+msgstr ""
+
+#: inc/functions-woocommerce.php:546
+#: template-parts/header/elements/controls.php:42
+msgid "Your Cart"
+msgstr ""
+
+#: inc/template-tags.php:38
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-tags.php:57
+msgid "Next Post"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgid "Written By "
+msgstr ""
+
+#: inc/template-tags.php:127
+msgid "Related Posts"
+msgstr ""
+
+#: inc/template-tags.php:157
+msgid "By "
+msgstr ""
+
+#: inc/template-tags.php:176
+msgid " "
+msgstr ""
+
+#: inc/redux-options/redux-config.php:28 inc/redux-options/redux-config.php:30
+#, php-format
+msgid "%s - Theme Options"
+msgstr ""
+
+#: inc/redux-options/options/404.php:8
+msgid "404 Page"
+msgstr ""
+
+#: inc/redux-options/options/404.php:16
+msgid "404 Page type"
+msgstr ""
+
+#: inc/redux-options/options/404.php:18
+#: inc/redux-options/options/footer-settings.php:17
+#: inc/redux-options/options/subheader-settings.php:23
+msgid "Static"
+msgstr ""
+
+#: inc/redux-options/options/404.php:19
+#: inc/tgm-plugin-activation/required-plugin.php:63
+msgid "Slider Revolution"
+msgstr ""
+
+#: inc/redux-options/options/404.php:20
+#: inc/redux-options/options/footer-settings.php:18
+#: inc/redux-options/options/page-template-settings.php:8
+#: inc/redux-options/options/subheader-settings.php:24
+msgid "Page Template"
+msgstr ""
+
+#: inc/redux-options/options/404.php:27
+msgid "Select Slider"
+msgstr ""
+
+#: inc/redux-options/options/404.php:28
+msgid "Please select a slider revolution to show in the 404 page"
+msgstr ""
+
+#: inc/redux-options/options/404.php:34
+#: inc/redux-options/options/footer-settings.php:24
+#: inc/redux-options/options/page-template-settings.php:23
+#: inc/redux-options/options/page-template-settings.php:38
+#: inc/redux-options/options/page-template-settings.php:53
+#: inc/redux-options/options/page-template-settings.php:68
+#: inc/redux-options/options/subheader-settings.php:31
+msgid "Select Page Template"
+msgstr ""
+
+#: inc/redux-options/options/404.php:35
+msgid "Please select a page template to show in the 404 page"
+msgstr ""
+
+#: inc/redux-options/options/404.php:45
+msgid "Page Title"
+msgstr ""
+
+#: inc/redux-options/options/404.php:46
+msgid "Enter 404 page title."
+msgstr ""
+
+#: inc/redux-options/options/404.php:47
+#: template-parts/404/content-static.php:13
+msgid "404"
+msgstr ""
+
+#: inc/redux-options/options/404.php:53
+msgid "Page Description"
+msgstr ""
+
+#: inc/redux-options/options/404.php:54
+msgid "Enter 404 page description."
+msgstr ""
+
+#: inc/redux-options/options/404.php:62
+msgid "404 Background"
+msgstr ""
+
+#: inc/redux-options/options/404.php:63
+msgid "Set 404 background."
+msgstr ""
+
+#: inc/redux-options/options/404.php:71
+#: template-parts/404/content-static.php:25
+msgid "Back to Home"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:15
+msgid "Select Blog Style"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:16
+msgid "Please select the blog style to display."
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:18
+#: inc/redux-options/options/blog-settings.php:74
+msgid "Blog Style 1"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:19
+#: inc/redux-options/options/blog-settings.php:75
+msgid "Blog Style 2"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:20
+msgid "Blog Style 3"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:21
+msgid "Blog Style 4"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:22
+msgid "Blog Style 5"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:23
+msgid "Blog Style 6"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:24
+msgid "Blog Style 7"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:25
+msgid "Blog Style 8"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:26
+msgid "Blog Style 9"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:27
+msgid "Blog Style 10"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:34
+#: inc/redux-options/options/donation-settings.php:38
+#: inc/redux-options/options/event-settings.php:37
+#: inc/redux-options/options/ministries-settings.php:61
+#: inc/redux-options/options/portfolio-settings.php:65
+#: inc/redux-options/options/sermons-settings.php:37
+#: inc/redux-options/options/service-settings.php:37
+#: inc/redux-options/options/team-settings.php:33
+msgid "Number of Columns"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:35
+msgid "Please select the number of columns in blog archive."
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:37
+#: inc/redux-options/options/donation-settings.php:41
+#: inc/redux-options/options/event-settings.php:40
+#: inc/redux-options/options/ministries-settings.php:64
+#: inc/redux-options/options/portfolio-settings.php:68
+#: inc/redux-options/options/sermons-settings.php:40
+#: inc/redux-options/options/service-settings.php:40
+#: inc/redux-options/options/team-settings.php:36
+msgid "1 Column"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:38
+#: inc/redux-options/options/donation-settings.php:42
+#: inc/redux-options/options/event-settings.php:41
+#: inc/redux-options/options/ministries-settings.php:65
+#: inc/redux-options/options/portfolio-settings.php:69
+#: inc/redux-options/options/sermons-settings.php:41
+#: inc/redux-options/options/service-settings.php:41
+#: inc/redux-options/options/team-settings.php:37
+msgid "2 Columns"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:39
+#: inc/redux-options/options/donation-settings.php:43
+#: inc/redux-options/options/event-settings.php:42
+#: inc/redux-options/options/ministries-settings.php:66
+#: inc/redux-options/options/portfolio-settings.php:70
+#: inc/redux-options/options/sermons-settings.php:42
+#: inc/redux-options/options/service-settings.php:42
+#: inc/redux-options/options/team-settings.php:38
+msgid "3 Columns"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:40
+#: inc/redux-options/options/donation-settings.php:44
+#: inc/redux-options/options/event-settings.php:43
+#: inc/redux-options/options/ministries-settings.php:67
+#: inc/redux-options/options/portfolio-settings.php:71
+#: inc/redux-options/options/sermons-settings.php:43
+#: inc/redux-options/options/service-settings.php:43
+#: inc/redux-options/options/team-settings.php:39
+msgid "4 Columns"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:47
+msgid "Select Sidebar Style"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:48
+msgid "Please select the sidebar style to display."
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:50
+msgid "Sidebar Style 1"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:51
+msgid "Sidebar Style 2"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:52
+msgid "Sidebar Style 3"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:60
+msgid "Select the blog sidebar position."
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:62
+#: inc/redux-options/options/page-settings.php:18
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:63
+#: inc/redux-options/options/donation-settings.php:18
+#: inc/redux-options/options/event-settings.php:18
+#: inc/redux-options/options/ministries-settings.php:18
+#: inc/redux-options/options/page-settings.php:19
+#: inc/redux-options/options/portfolio-settings.php:19
+#: inc/redux-options/options/sermons-settings.php:18
+#: inc/redux-options/options/service-settings.php:18
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:64
+#: inc/redux-options/options/donation-settings.php:19
+#: inc/redux-options/options/event-settings.php:19
+#: inc/redux-options/options/ministries-settings.php:19
+#: inc/redux-options/options/page-settings.php:20
+#: inc/redux-options/options/portfolio-settings.php:20
+#: inc/redux-options/options/sermons-settings.php:19
+#: inc/redux-options/options/service-settings.php:19
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:71
+msgid "Select Blog Detail Style"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:72
+msgid "Please select the blog detail style to display."
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:82
+msgid "Select Pagination Style"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:83
+msgid "Please select the pagination style to display."
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:85
+#: inc/redux-options/options/donation-settings.php:29
+#: inc/redux-options/options/header-settings.php:164
+#: inc/redux-options/options/header-settings.php:207
+#: inc/redux-options/options/ministries-settings.php:53
+#: inc/redux-options/options/product-details-settings.php:21
+#: inc/redux-options/options/product-settings.php:22
+#: inc/redux-options/options/subheader-settings.php:44
+msgid "Style 1"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:86
+#: inc/redux-options/options/donation-settings.php:30
+#: inc/redux-options/options/header-settings.php:165
+#: inc/redux-options/options/header-settings.php:208
+#: inc/redux-options/options/ministries-settings.php:54
+#: inc/redux-options/options/product-details-settings.php:22
+#: inc/redux-options/options/product-settings.php:23
+#: inc/redux-options/options/subheader-settings.php:45
+msgid "Style 2"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:93
+msgid "Facebook Share"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:94
+msgid "You can share post on facebook."
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:100
+msgid "Twitter Share"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:101
+msgid "You can share post on twitter"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:107
+msgid "Linkedin Share"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:108
+msgid "You can share post on linkedin"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:114
+msgid "Pinterest Share"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:115
+msgid "You can share post on pinterest"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:121
+msgid "Tumblr Share"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:122
+msgid "You can share post on Tumblr"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:128
+msgid "Skype Share"
+msgstr ""
+
+#: inc/redux-options/options/blog-settings.php:129
+msgid "You can share post on Skype"
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:8
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:10
+msgid ""
+"In color schemes, you can change the site default color and set as per your "
+"site design."
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:16
+msgid "Primary Color"
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:17
+msgid "Set primary color for the website."
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:24
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:25
+msgid "Set secondary color for the website."
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:32
+msgid "Tertiary Color"
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:33
+msgid "Set tertiary color for the website."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:8
+msgid "Contact Information"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:16
+msgid "Company Email"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:17
+msgid "Please enter contact email address."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:19
+msgid "Please enter valid email."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:24
+msgid "Company Phone Number"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:25
+msgid "Please enter contact phone number."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:30
+msgid "Company Address"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:31
+msgid "Please enter contact address."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:36
+msgid "Company Google map link"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:37
+msgid "Please enter google maps link"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:42
+msgid "Company Description"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:43
+msgid "Please type a small description of your company"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:49
+msgid "Facebook"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:50
+msgid "Twitter"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:51
+msgid "Dribbble"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:52
+msgid "Vimeo"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:53
+msgid "Pinterest"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:54
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:55
+msgid "Youtube"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:56
+msgid "Instagram"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:60
+msgid "Social info to display."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:61
+msgid "Arrange the fields you wanted to display."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:66
+msgid "Facebook Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:67
+msgid "Enter facebook url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:72
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:73
+msgid "Enter twitter url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:78
+msgid "Dribbble Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:79
+msgid "Enter dribbble url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:84
+msgid "Vimeo Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:85
+msgid "Enter vimeo url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:90
+#: inc/redux-options/options/contact-info.php:114
+msgid "Pinterest Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:91
+#: inc/redux-options/options/contact-info.php:115
+msgid "Enter pinterest url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:96
+msgid "LinkedIn Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:97
+msgid "Enter linkedin url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:102
+msgid "Youtube Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:103
+msgid "Enter youtube url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:108
+msgid "Instagram Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:109
+msgid "Enter instagram url."
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:8
+msgid "Donation Settings"
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:15
+msgid "Donation Sidebar"
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:16
+msgid "Select the Donation sidebar position."
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:26
+msgid "Select Donation Style"
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:27
+msgid "Please select the Donation archive style to display."
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:31
+#: inc/redux-options/options/header-settings.php:166
+#: inc/redux-options/options/header-settings.php:209
+#: inc/redux-options/options/product-details-settings.php:23
+#: inc/redux-options/options/subheader-settings.php:46
+msgid "Style 3"
+msgstr ""
+
+#: inc/redux-options/options/donation-settings.php:39
+msgid "Please select the number of columns in donation archive."
+msgstr ""
+
+#: inc/redux-options/options/event-settings.php:8
+msgid "Event Settings"
+msgstr ""
+
+#: inc/redux-options/options/event-settings.php:16
+msgid "Select the Event sidebar position."
+msgstr ""
+
+#: inc/redux-options/options/event-settings.php:26
+msgid "Select Event Style"
+msgstr ""
+
+#: inc/redux-options/options/event-settings.php:27
+msgid "Please select the Event archive style to display."
+msgstr ""
+
+#: inc/redux-options/options/event-settings.php:29
+msgid "Event Style 1"
+msgstr ""
+
+#: inc/redux-options/options/event-settings.php:30
+msgid "Event Style 2"
+msgstr ""
+
+#: inc/redux-options/options/event-settings.php:38
+msgid "Please select the number of columns in event archive."
+msgstr ""
+
+#: inc/redux-options/options/event-settings.php:50
+msgid "Show Event Image"
+msgstr ""
+
+#: inc/redux-options/options/event-settings.php:52
+msgid "Enable to show event image on detail page"
+msgstr ""
+
+#: inc/redux-options/options/event-settings.php:57
+msgid "Show Event Meta Details"
+msgstr ""
+
+#: inc/redux-options/options/event-settings.php:59
+msgid "Enable to show event meta details on single event page"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:15
+msgid "Footer type"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:25
+msgid "Please select a page template to show in the footer"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:35
+msgid "Select Footer Layout"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:36
+msgid "Please select the footer style to display."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:38
+msgid "Footer Layout 1"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:48
+msgid "Select Footer Color Scheme"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:49
+msgid "Please select the footer color scheme to display."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:51
+msgid "Light Scheme"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:52
+#: inc/redux-options/options/header-settings.php:35
+#: inc/redux-options/options/header-settings.php:87
+msgid "Dark Scheme"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:60
+msgid "Display Footer Topbar"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:68
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:72
+msgid "Upload image for logo."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:78
+msgid "Display Footer Social Links"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:79
+msgid "Enable to display the social links in footer topbar."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:89
+msgid "Footer Column layout"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:90
+msgid "Please select the footer layout."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:93
+msgid "Footer column 6 - 6"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:97
+msgid "Footer column 8 - 4"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:101
+msgid "Footer column 4 - 8"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:105
+msgid "Footer column 4 - 4 - 4"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:109
+msgid "Footer column 3 - 3 - 3 - 3"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:113
+msgid "Footer column 6 - 3 - 3"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:117
+msgid "Footer column 3 - 3 - 6"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:121
+msgid "Footer column 8 - 2 - 2"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:125
+msgid "Footer column 2 - 2 - 8"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:129
+msgid "Footer column 6 - 2 - 2 - 2"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:133
+msgid "Footer column 2 - 2 - 2 - 6"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:137
+msgid "Footer column 2 - 2 - 4 - 4"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:147
+msgid "Footer Background (The Whole Footer)"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:148
+msgid "Set footer background."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:156
+msgid ""
+"Footer top background color (This overlaps the Footer Background option)"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:157
+msgid "Set background color for the footer top."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:163
+msgid ""
+"Footer middle background color (This overlaps the Footer Background option)"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:164
+msgid "Set background color for the footer middle."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:170
+msgid ""
+"Footer bottom background color (This overlaps the Footer Background option)"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:171
+msgid "Set background color for the footer bottom."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:177
+msgid "Newsletter Text"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:186
+msgid "Newsletter Shortcode"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:187
+msgid "Example: [mc4wp_form id=\"47\"]"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:188
+msgid "Enter your newsletter shortcode, we recommend using MC4WP"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:197
+msgid "Copyright Text Left"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:198
+#: inc/redux-options/options/footer-settings.php:206
+msgid "Enter the copyright right content"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:199
+#: inc/redux-options/options/footer-settings.php:207
+msgid "Theme Name"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:205
+msgid "Copyright Text Right"
+msgstr ""
+
+#: inc/redux-options/options/google-settings.php:8
+msgid "Google Settings"
+msgstr ""
+
+#: inc/redux-options/options/google-settings.php:17
+msgid "Google Analytics"
+msgstr ""
+
+#: inc/redux-options/options/google-settings.php:18
+msgid "Enter your Google Analytics tracking code here"
+msgstr ""
+
+#: inc/redux-options/options/google-settings.php:24
+msgid "Google Tag Manager"
+msgstr ""
+
+#: inc/redux-options/options/google-settings.php:25
+msgid "Enter your Google Tag Manager tracking code here"
+msgstr ""
+
+#: inc/redux-options/options/google-settings.php:31
+msgid "Google Web Master Tools"
+msgstr ""
+
+#: inc/redux-options/options/google-settings.php:32
+msgid "Enter your Google Web Master Tools <meta> tag here"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:17
+msgid "Site Logo"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:20
+msgid "Upload your logo"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:27
+msgid "Sticky Logo"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:30
+msgid ""
+"Will display a secondary logo when header is sticky and scrolling the page. "
+"ONLY available if you have Sticky Header enabled in Header settings."
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:36
+msgid "Logo Text link options"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:37
+msgid ""
+"Specify the logo typography properties. Will only work if you don't upload a "
+"logo image."
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:49
+msgid "Display Logo Text Icon"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:50
+msgid ""
+"Please choose if you want to display icon for the logo text.Will only work "
+"if you don't upload a logo image."
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:57
+msgid "Upload Logo Text Icon"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:64
+msgid "Logo Icon Background color"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:65
+msgid "Set background-color for the logo icon"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:74
+msgid "Display Info Card"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:75
+msgid "Please choose if you want to display the info card or not."
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:81
+msgid "Info Card background color"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:82
+msgid "Set background color for the info card"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:91
+msgid "Info Card text color"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:92
+msgid "Set text color for the info card"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:102
+msgid "Info Card Logo"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:105
+msgid "Choose your company logo which will appear in info card"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:112
+msgid "Display Phone Number?"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:113
+msgid ""
+"Please check this if you want to display the company Phone Number in the "
+"card (Option is set from Contact Information Tab)"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:121
+msgid "Display Email?"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:122
+msgid ""
+"Please check this if you want to display the company Email in the card "
+"(Option is set from Contact Information Tab)"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:130
+msgid "Display Address?"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:131
+msgid ""
+"Please check this if you want to display the company address in the card "
+"(Option is set from Contact Information Tab)"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:138
+msgid "Display Map Link?"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:139
+msgid ""
+"Please check this if you want to display the company Map Link in the card "
+"(Option is set from Contact Information Tab)"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:146
+msgid "Display Description?"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:147
+msgid ""
+"Please check this if you want to display the company Description in the card "
+"(Option is set from Contact Information Tab)"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:154
+msgid "Display Social Media?"
+msgstr ""
+
+#: inc/redux-options/options/header-logo-settings.php:155
+msgid ""
+"Please check this if you want to display the company Social Media Links in "
+"the card (Option is set from Contact Information Tab)"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:15
+msgid "Select Header Layout"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:16
+msgid "Please select the header style to display."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:18
+msgid "Header Layout 1"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:19
+msgid "Header Layout 2"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:20
+msgid "Header Layout 3"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:21
+msgid "Header Layout 4"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:22
+msgid "Header Layout 5"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:23
+msgid "Header Layout 6"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:24
+msgid "Header Layout 7"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:31
+msgid "Select Header Color scheme"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:32
+msgid "Please select the header color scheme"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:34
+#: inc/redux-options/options/header-settings.php:86
+msgid "Default - Based on options"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:42
+msgid "Select Header Position"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:43
+msgid "Please select the header position"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:45
+msgid "Absolute"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:46
+msgid "Relative"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:53
+msgid "Set Custom Header Width"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:55
+msgid "Enable to set custom header width."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:60
+msgid "Header Custom Content Size"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:61
+msgid "Select your desired Header content size"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:76
+#: inc/redux-options/options/header-settings.php:78
+msgid "Enable sticky header"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:83
+msgid "Select Sticky Header Color scheme"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:84
+msgid "Please select the sticky header color scheme"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:95
+msgid "Header sticky background color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:96
+msgid "Set background color for the sticky header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:102
+msgid "Header sticky color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:103
+msgid "Set color for the sticky header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:114
+msgid "Header sticky color on hover"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:115
+msgid "Set color on hover for the sticky header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:133
+msgid "Display Vertical Mega Menu"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:135
+msgid "Enable to display the vertical megamenu in the header"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:141
+msgid "Vertical Megamenu Text"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:142
+msgid ""
+"Please enter text that will display in the top level of the vertical megamenu"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:143
+msgid "Example: Browse"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:149
+msgid "Select Menu"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:150
+msgid "Select the menu you want to display in the vertical megamenu"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:161
+msgid "Select Controls Style"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:162
+msgid "Please select the Controls Style (Search, Cart, User Icon)"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:174
+msgid "Display Search"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:176
+msgid "Enable to display the search in header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:182
+msgid "Display collapse sidebar"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:184
+msgid "Enable to display the collapse sidebar icon in header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:185
+msgid "Add content in header collapse sidebar using widgets"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:190
+msgid "Header Collapse Icon Background color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:191
+msgid "Set background-color for the header collaspe icon"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:204
+msgid "Select Contact Info Style"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:205
+msgid "Please select the Contact Info Style"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:210
+#: inc/redux-options/options/subheader-settings.php:47
+msgid "Style 4"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:211
+msgid "Style 5"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:219
+msgid "Display Email Address"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:221
+msgid "Enable to display your email address"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:222
+#: inc/redux-options/options/header-settings.php:231
+#: inc/redux-options/options/header-settings.php:240
+msgid "Note: This field should be filled from the Contact Information tab"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:228
+msgid "Display Phone Number"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:230
+msgid "Enable to display your phone number"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:237
+msgid "Display Address"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:239
+msgid "Enable to display your address"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:246
+msgid "Header Contact info background color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:247
+msgid "Set background color for the contact info."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:248
+msgid ""
+"If Contact Info style 2 is selected, then this option will apply to the icon "
+"color, and not the icon background color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:254
+msgid "Header Contact info color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:255
+msgid "Set color for the contact info."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:266
+msgid "Header bottom background color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:267
+msgid "Set background color for the bottom header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:273
+msgid "Header bottom color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:274
+msgid "Set color for the bottom header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:280
+msgid "Header bottom color on hover"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:281
+msgid "Set color on hover for the bottom header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:288
+msgid "Header Submenu background color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:289
+msgid "Set background color for the submenus."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:295
+msgid "Header Submenu color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:296
+msgid "Set color for the Submenu."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:302
+msgid "Header Submenu color on hover"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:303
+msgid "Set color on hover for the Submenu."
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:16
+msgid "Display Top Header"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:17
+msgid "Please choose if you want to display the top header or not."
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:23
+msgid "Set Custom Header Top Width"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:25
+msgid "Enable to set custom header top width."
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:31
+msgid "Header Top Custom Content Size"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:32
+msgid "Select your desired Header top content size"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:43
+msgid "Display Top Header Social Media"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:44
+msgid ""
+"Please choose if you want to display the top header social media links or "
+"not."
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:51
+msgid "Display Top Header Menu"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:52
+msgid "Please choose if you want to display the top header menu"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:59
+msgid "Display Call To Action"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:61
+msgid "Enable to display call to action button"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:70
+msgid "Call To Action Button Title"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:71
+msgid "Please enter call to action button title"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:77
+msgid "Call To Action Button Link"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:78
+msgid "Please enter call to action button link"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:84
+msgid "Button color"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:85
+msgid "Set color for the button."
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:91
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:92
+msgid "Set background color for the button."
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:98
+msgid "Header top background color"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:99
+msgid "Set background color for the top header."
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:105
+msgid "Header top color"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:106
+msgid "Set color for the top header."
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:117
+msgid "Header top color on hover"
+msgstr ""
+
+#: inc/redux-options/options/header-top-settings.php:118
+msgid "Set color on hover for the top header."
+msgstr ""
+
+#: inc/redux-options/options/ministries-settings.php:8
+msgid "Ministries Settings"
+msgstr ""
+
+#: inc/redux-options/options/ministries-settings.php:16
+msgid "Select the Ministries sidebar position."
+msgstr ""
+
+#: inc/redux-options/options/ministries-settings.php:26
+msgid "Show Archive Thumbnail"
+msgstr ""
+
+#: inc/redux-options/options/ministries-settings.php:32
+#: inc/redux-options/options/portfolio-settings.php:33
+msgid "Enter Custom Image."
+msgstr ""
+
+#: inc/redux-options/options/ministries-settings.php:33
+#: inc/redux-options/options/portfolio-settings.php:34
+msgid "Author Widget custom image"
+msgstr ""
+
+#: inc/redux-options/options/ministries-settings.php:39
+msgid "Select Ministries Style"
+msgstr ""
+
+#: inc/redux-options/options/ministries-settings.php:40
+msgid "Please select the Ministries archive style to display."
+msgstr ""
+
+#: inc/redux-options/options/ministries-settings.php:42
+msgid "Ministries Style 1"
+msgstr ""
+
+#: inc/redux-options/options/ministries-settings.php:43
+msgid "Ministries Style 2"
+msgstr ""
+
+#: inc/redux-options/options/ministries-settings.php:50
+msgid "Select Ministries Detail Style"
+msgstr ""
+
+#: inc/redux-options/options/ministries-settings.php:51
+msgid "Please select the Ministries detail style to display."
+msgstr ""
+
+#: inc/redux-options/options/ministries-settings.php:62
+msgid "Please select the number of columns in ministries archive."
+msgstr ""
+
+#: inc/redux-options/options/my-account-settings.php:15
+msgid "Form Title"
+msgstr ""
+
+#: inc/redux-options/options/my-account-settings.php:16
+#: inc/redux-options/options/my-account-settings.php:22
+msgid "Please enter login form title"
+msgstr ""
+
+#: inc/redux-options/options/my-account-settings.php:21
+msgid "Form Description"
+msgstr ""
+
+#: inc/redux-options/options/my-account-settings.php:28
+msgid "My Account Page Image"
+msgstr ""
+
+#: inc/redux-options/options/page-settings.php:8
+msgid "Page Settings"
+msgstr ""
+
+#: inc/redux-options/options/page-settings.php:16
+msgid "Select the Page sidebar position."
+msgstr ""
+
+#: inc/redux-options/options/page-settings.php:27
+msgid "Select Page Layout"
+msgstr ""
+
+#: inc/redux-options/options/page-settings.php:28
+msgid "Please select the page layout."
+msgstr ""
+
+#: inc/redux-options/options/page-settings.php:30
+#: inc/redux-options/options/woocommerce-settings.php:18
+msgid "Boxed"
+msgstr ""
+
+#: inc/redux-options/options/page-settings.php:31
+#: inc/redux-options/options/woocommerce-settings.php:19
+msgid "Full Width"
+msgstr ""
+
+#: inc/redux-options/options/page-settings.php:33
+msgid "Only works in pages that do not have WP Bakery content."
+msgstr ""
+
+#: inc/redux-options/options/page-template-settings.php:16
+msgid "Page Template Before Header"
+msgstr ""
+
+#: inc/redux-options/options/page-template-settings.php:17
+msgid "Enable to  show custom page template before header."
+msgstr ""
+
+#: inc/redux-options/options/page-template-settings.php:24
+msgid "Please select the page template to display before header."
+msgstr ""
+
+#: inc/redux-options/options/page-template-settings.php:31
+msgid "Page Template After Header"
+msgstr ""
+
+#: inc/redux-options/options/page-template-settings.php:32
+msgid "Enable to  show custom page template after header."
+msgstr ""
+
+#: inc/redux-options/options/page-template-settings.php:39
+msgid "Please select the page template to display after header."
+msgstr ""
+
+#: inc/redux-options/options/page-template-settings.php:46
+msgid "Page Template Before Footer"
+msgstr ""
+
+#: inc/redux-options/options/page-template-settings.php:47
+msgid "Enable to  show custom page template before footer."
+msgstr ""
+
+#: inc/redux-options/options/page-template-settings.php:54
+msgid "Please select the page template to display before footer."
+msgstr ""
+
+#: inc/redux-options/options/page-template-settings.php:61
+msgid "Page Template After Footer"
+msgstr ""
+
+#: inc/redux-options/options/page-template-settings.php:62
+msgid "Enable to  show custom page template after footer."
+msgstr ""
+
+#: inc/redux-options/options/page-template-settings.php:69
+msgid "Please select the page template to display after footer."
+msgstr ""
+
+#: inc/redux-options/options/portfolio-settings.php:8
+msgid "Portfolio Settings"
+msgstr ""
+
+#: inc/redux-options/options/portfolio-settings.php:17
+msgid "Select the Portfolio sidebar position."
+msgstr ""
+
+#: inc/redux-options/options/portfolio-settings.php:27
+msgid "Show Author box in sidebar"
+msgstr ""
+
+#: inc/redux-options/options/portfolio-settings.php:40
+msgid "Select Portfolio Style"
+msgstr ""
+
+#: inc/redux-options/options/portfolio-settings.php:41
+msgid "Please select the Portfolio archive style to display."
+msgstr ""
+
+#: inc/redux-options/options/portfolio-settings.php:43
+#: inc/redux-options/options/portfolio-settings.php:57
+msgid "Portfolio Style 1"
+msgstr ""
+
+#: inc/redux-options/options/portfolio-settings.php:44
+#: inc/redux-options/options/portfolio-settings.php:58
+msgid "Portfolio Style 2"
+msgstr ""
+
+#: inc/redux-options/options/portfolio-settings.php:45
+msgid "Portfolio Style 3"
+msgstr ""
+
+#: inc/redux-options/options/portfolio-settings.php:46
+msgid "Portfolio Style 4"
+msgstr ""
+
+#: inc/redux-options/options/portfolio-settings.php:47
+msgid "Portfolio Style 5"
+msgstr ""
+
+#: inc/redux-options/options/portfolio-settings.php:54
+msgid "Select Portfolio Detail Style"
+msgstr ""
+
+#: inc/redux-options/options/portfolio-settings.php:55
+msgid "Please select the Portfolio detail style to display."
+msgstr ""
+
+#: inc/redux-options/options/portfolio-settings.php:66
+msgid "Please select the number of columns in portfolio archive."
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:11
+msgid "Product Details"
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:19
+msgid "Product details style"
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:30
+msgid "Display Product Social Share"
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:31
+msgid "Please choose if you want to display the social share for products"
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:37
+msgid "Display Payment Method"
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:38
+msgid ""
+"Please choose if you want to display payment method details under product "
+"share"
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:44
+msgid "Payment Method Title"
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:45
+msgid "Enter the title to show under product share."
+msgstr ""
+
+#: inc/redux-options/options/product-details-settings.php:52
+msgid "Payment method Image"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:11
+#: woocommerce/wishlist-view.php:76 woocommerce/cart/cart.php:29
+#: woocommerce/cart/cart.php:64
+msgid "Product"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:20
+msgid "Product card style"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:31
+msgid "Show featured badge?"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:32
+msgid "Check if you want to show the featured product badge (Only if set)"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:38
+msgid "Show sale badge?"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:39
+msgid "Check if you want to show the sale product badge"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:45
+msgid "Show Excerpt?"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:46
+msgid "Check if you want to show the recipe excerpt"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:52
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:53
+msgid "Number of words to display in the text"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:60
+msgid "Show Notification On added to cart"
+msgstr ""
+
+#: inc/redux-options/options/product-settings.php:61
+msgid ""
+"Check if you want to show a notification popup when a user adds an item to "
+"the cart."
+msgstr ""
+
+#: inc/redux-options/options/sermons-settings.php:8
+msgid "Sermons Settings"
+msgstr ""
+
+#: inc/redux-options/options/sermons-settings.php:16
+msgid "Select the Sermons sidebar position."
+msgstr ""
+
+#: inc/redux-options/options/sermons-settings.php:26
+msgid "Select Sermons Style"
+msgstr ""
+
+#: inc/redux-options/options/sermons-settings.php:27
+msgid "Please select the Sermons archive style to display."
+msgstr ""
+
+#: inc/redux-options/options/sermons-settings.php:29
+msgid "Sermons Style 1"
+msgstr ""
+
+#: inc/redux-options/options/sermons-settings.php:30
+msgid "Sermons Style 2"
+msgstr ""
+
+#: inc/redux-options/options/sermons-settings.php:38
+msgid "Please select the number of columns in sermons archive."
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:8
+msgid "Service Settings"
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:16
+msgid "Select the Service sidebar position."
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:26
+msgid "Select Service Style"
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:27
+msgid "Please select the Service archive style to display."
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:29
+msgid "Service Style 1"
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:30
+msgid "Service Style 2"
+msgstr ""
+
+#: inc/redux-options/options/service-settings.php:38
+msgid "Please select the number of columns in Service archive."
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:8
+msgid "Subheader Settings"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:15
+msgid "Display Subheader"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:21
+msgid "Subheader type"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:32
+msgid "Please select a page template to show in the subheader"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:42
+msgid "Subheader Style"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:58
+msgid "Display Breadcrumb ?"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:68
+msgid "Custom breadcrumb separator?"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:78
+msgid "Select Icon"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:79
+msgid "Select a custom icon as a seperator between breadcrumb items"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:90
+msgid "Breadcrumbs Position"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:92
+msgid "Before title"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:93
+msgid "After title"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:94
+msgid "Below Subheader"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:106
+msgid "Breadcrumbs text color"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:107
+msgid "Set the text color for your breadcrumbs"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:126
+msgid "Breadcrumbs link color"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:127
+msgid "Set the link color for your breadcrumbs"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:138
+msgid "Breadcrumbs link color on hover"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:139
+msgid "Set the link color on hover for your breadcrumbs"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:150
+msgid "Breadcrumbs background color"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:151
+msgid "Set the background color for your breadcrumbs"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:152
+msgid ""
+"Subheader styles 1, and 4, or if the breadcrumbs are under the subheader"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:158
+msgid "Subheader Alignment"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:160
+msgid "Left"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:161
+msgid "Center"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:162
+msgid "Right"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:174
+msgid "Background Image"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:176
+msgid "Set page background image."
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:186
+msgid "Enter caption title."
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:187
+msgid "Subheader Caption"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:196
+msgid "Subheader title color"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:197
+msgid "Set the title color for your subheader"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:209
+msgid "Subheader caption color"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:210
+msgid "Set the caption color for your subheader"
+msgstr ""
+
+#: inc/redux-options/options/subheader-settings.php:222
+msgid "Background Opacity Color"
+msgstr ""
+
+#: inc/redux-options/options/team-settings.php:9
+msgid "Team Settings"
+msgstr ""
+
+#: inc/redux-options/options/team-settings.php:16
+msgid "Select Team Style"
+msgstr ""
+
+#: inc/redux-options/options/team-settings.php:17
+msgid "Please select the team archive style to display."
+msgstr ""
+
+#: inc/redux-options/options/team-settings.php:19
+msgid "Team Style 1"
+msgstr ""
+
+#: inc/redux-options/options/team-settings.php:20
+msgid "Team Style 2"
+msgstr ""
+
+#: inc/redux-options/options/team-settings.php:21
+msgid "Team Style 3"
+msgstr ""
+
+#: inc/redux-options/options/team-settings.php:22
+msgid "Team Style 4"
+msgstr ""
+
+#: inc/redux-options/options/team-settings.php:23
+msgid "Team Style 5"
+msgstr ""
+
+#: inc/redux-options/options/team-settings.php:24
+msgid "Team Style 6"
+msgstr ""
+
+#: inc/redux-options/options/team-settings.php:25
+msgid "Team Style 7"
+msgstr ""
+
+#: inc/redux-options/options/team-settings.php:34
+msgid "Please select the number of columns in team archive."
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:9
+msgid "This section control the theme's layout"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:17
+msgid "Content Size"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:18
+msgid "Please choose the desired default size for the content."
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:22
+msgid "Custom Size"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:28
+msgid "Custom Content Size"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:29
+msgid "Select your desired content size"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:40
+msgid "Website body Background color / Image"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:49
+msgid "Mobile View"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:50
+msgid ""
+"Enabling App view will redirect your users to a custom home page if they "
+"were on mobile."
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:52
+msgid "App View"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:53
+msgid "Responsive View"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:62
+msgid "Your App view Home page"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:63
+msgid "Enter the URL for the App view Home page"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:73
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:79
+msgid "Preloader style"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:80
+msgid "Please choose the preloader style"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:82
+msgid "Default"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:83
+msgid "Website Name"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:84
+msgid "Eclipse"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:85
+msgid "Spinner"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:86
+msgid "Diamond"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:87
+msgid "Ripple"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:88
+msgid "Gear"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:89
+msgid "Pulse"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:90
+msgid "Squares"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:91
+msgid "Dual"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:99
+msgid "preloader background color"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:100
+msgid "Set background color for the preloader"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:106
+msgid "preloader color"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:107
+msgid "Set color for the preloader"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:117
+msgid "Enable Back to Top"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:123
+msgid "Back to top custom icon"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:124
+msgid "Select a custom icon for the back to top button"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:132
+msgid "Back to top Position"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:133
+msgid "Please choose the desired position for your button"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:135
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:136
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:137
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:144
+msgid "Back to top style"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:145
+msgid "Please choose the desired style for your button"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:147
+msgid "Square"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:148
+msgid "Round"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:149
+msgid "Circle"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:156
+msgid "Back to top background color"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:157
+msgid "Set background color for the button"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:163
+msgid "Back to top background color on hover"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:164
+msgid "Set background color for the button on hover"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:170
+msgid "Back to top color"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:171
+msgid "Set color for the button"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:178
+msgid "Back to top color on hover"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:179
+msgid "Set color for the button on hover"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:190
+msgid "Enable Retina Display"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:195
+msgid "Retina Multiplier"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:196
+msgid ""
+"Set the Retina Multiplier value. Example: 2. This will multiply the default "
+"image size by 2. If the image size was 700x700, and you set the multipler to "
+"2, it will become 1400x1400. This will result in crispier images"
+msgstr ""
+
+#: inc/redux-options/options/theme-layout.php:199
+msgid "Example 1,2 or 3"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:8
+msgid "Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:17
+msgid "Body and Small Text Color"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:18
+msgid "Set color for body and small text"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:23
+msgid "Headings Text Color"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:24
+msgid "Set color for the headings"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:30
+msgid "Custom Heading Title Font"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:31
+msgid "Specify typography for heading title."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:32
+#: inc/redux-options/options/typography-settings.php:46
+#: inc/redux-options/options/typography-settings.php:60
+#: inc/redux-options/options/typography-settings.php:74
+#: inc/redux-options/options/typography-settings.php:88
+#: inc/redux-options/options/typography-settings.php:102
+#: inc/redux-options/options/typography-settings.php:116
+#: inc/redux-options/options/typography-settings.php:130
+#: inc/redux-options/options/typography-settings.php:144
+#: inc/redux-options/options/typography-settings.php:158
+#: inc/redux-options/options/typography-settings.php:172
+#: inc/redux-options/options/typography-settings.php:186
+msgid ""
+"Note: Line Height is calculated as follows (Font Size * Line Height) "
+"Example: Line height to be 1.8 and font size 16px (1.8 * 16) = 28.8. This "
+"will be your line height"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:44
+msgid "Custom Heading Subtitle Font"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:45
+msgid "Specify typography for heading subtitle."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:58
+msgid "Body Font"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:59
+msgid "Specify typography for body tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:72
+msgid "H1 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:73
+msgid "Specify typography for h1 tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:86
+msgid "H2 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:87
+msgid "Specify typography for h2 tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:100
+msgid "H3 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:101
+msgid "Specify typography for h3 tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:114
+msgid "H4 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:115
+msgid "Specify typography for h4 tag.."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:128
+msgid "H5 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:129
+msgid "Specify typography for h5 tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:142
+msgid "H6 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:143
+msgid "Specify typography for h6 tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:156
+msgid "Navigation Level 1 Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:157
+msgid "Specify typography for level 1 navigation"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:170
+msgid "Navigation Level 2 Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:171
+msgid "Specify typography for level 2 navigation (Sub Menus)"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:184
+msgid "Header top navigation Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:185
+msgid "Specify typography for header top navigation"
+msgstr ""
+
+#: inc/redux-options/options/woocommerce-settings.php:8
+msgid "WooCommerce settings"
+msgstr ""
+
+#: inc/redux-options/options/woocommerce-settings.php:16
+msgid "Shop Layout"
+msgstr ""
+
+#: inc/redux-options/options/woocommerce-settings.php:26
+msgid "Display Cart"
+msgstr ""
+
+#: inc/redux-options/options/woocommerce-settings.php:27
+#: inc/redux-options/options/woocommerce-settings.php:36
+msgid ""
+"This only shows in the following headers: Header Style 2, Header Style 3, "
+"Header Style 5, Header Style 7"
+msgstr ""
+
+#: inc/redux-options/options/woocommerce-settings.php:28
+msgid "Display Cart in the Header"
+msgstr ""
+
+#: inc/redux-options/options/woocommerce-settings.php:34
+msgid "Display User Icon"
+msgstr ""
+
+#: inc/redux-options/options/woocommerce-settings.php:37
+msgid "Enable to display the user icon in header. (WooCommerce Profile)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:51
+msgid "Sigma Core"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:57
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:69
+msgid "YITH Color and Label Variations for WooCommerce"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:74
+msgid "YITH WooCommerce Quick View"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:79
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:84
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:89
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:94
+msgid "Give - Donation Plugin"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:99
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:104
+msgid "MC4WP: Mailchimp for WordPress"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:109
+msgid "Autoptimize"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:114
+msgid "Litespeed Cache"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:119
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:124
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:129
+msgid "Yoast SEO"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:134
+msgid "Instagram Feed"
+msgstr ""
+
+#: inc/tgm-plugin-activation/required-plugin.php:139
+msgid "Twitter Feed"
+msgstr ""
+
+#: inc/yith/functions-yith-quickview.php:45
+msgid "Quick View"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/404/content-static.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/donation/styles/style-1.php:30
+msgid "Raised:"
+msgstr ""
+
+#: template-parts/donation/styles/style-1.php:34
+msgid "Goal:"
+msgstr ""
+
+#: template-parts/donation/styles/style-1.php:46
+msgid "Donate Now"
+msgstr ""
+
+#: template-parts/event/single/style-1.php:28
+#: template-parts/portfolio/single/styles/style-1.php:57
+#: template-parts/portfolio/single/styles/style-2.php:43
+msgid "Date"
+msgstr ""
+
+#: template-parts/event/single/style-1.php:33
+msgid "Venu"
+msgstr ""
+
+#: template-parts/event/single/style-1.php:38
+msgid "Speakers"
+msgstr ""
+
+#: template-parts/event/styles/style-2.php:23
+msgid "Event Details"
+msgstr ""
+
+#: template-parts/header/elements/contact-info.php:26
+msgid "Call Now"
+msgstr ""
+
+#: template-parts/header/elements/contact-info.php:46
+msgid "Address"
+msgstr ""
+
+#: template-parts/header/elements/controls.php:23
+msgid "My Account"
+msgstr ""
+
+#: template-parts/header/elements/info-card.php:63
+msgid "Call Us:"
+msgstr ""
+
+#: template-parts/header/elements/info-card.php:81
+msgid "Email:"
+msgstr ""
+
+#: template-parts/header/elements/info-card.php:96
+msgid "Open in Google Maps"
+msgstr ""
+
+#: template-parts/ministries/styles/style-1.php:28
+#: template-parts/ministries/styles/style-2.php:28
+#: template-parts/portfolio/styles/style-3.php:56
+#: template-parts/portfolio/styles/style-5.php:28
+#: template-parts/service/styles/style-1.php:28
+#: template-parts/service/styles/style-2.php:28
+msgid "Read More"
+msgstr ""
+
+#: template-parts/portfolio/single/styles/style-1.php:35
+msgid "Project Name"
+msgstr ""
+
+#: template-parts/portfolio/single/styles/style-1.php:45
+#: template-parts/portfolio/single/styles/style-2.php:25
+msgid "Client Name"
+msgstr ""
+
+#: template-parts/portfolio/single/styles/style-1.php:85
+#: template-parts/portfolio/single/styles/style-2.php:37
+msgid "Categories"
+msgstr ""
+
+#: template-parts/post/styles/style-10.php:29
+msgid "By: "
+msgstr ""
+
+#: template-parts/post/styles/style-9.php:36
+msgid "Read more"
+msgstr ""
+
+#: template-parts/preloader/styles/name.php:12
+msgid "Loading Site"
+msgstr ""
+
+#: template-parts/sermons/styles/style-1.php:26
+msgid "Message from"
+msgstr ""
+
+#: template-parts/team/single/style-1.php:66
+msgid "Phone Number :"
+msgstr ""
+
+#: template-parts/team/single/style-1.php:84
+msgid "Email :"
+msgstr ""
+
+#: template-parts/team/single/style-1.php:94
+msgid "Website :"
+msgstr ""
+
+#: template-parts/team/single/style-1.php:104
+msgid "Address Info :"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-added.php:39
+#: woocommerce/add-to-wishlist-browse.php:39
+msgid "Browse Wishlist"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-button.php:45
+msgid "Add To Wishlist"
+msgstr ""
+
+#: woocommerce/content-widget-reviews.php:33
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:84
+msgid "Unit price"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:93 woocommerce/cart/cart.php:31
+#: woocommerce/cart/cart.php:99 woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:102
+msgid "Stock status"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:120
+msgid "Arrange"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:153 woocommerce/wishlist-view.php:286
+msgid "Remove this product"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:223
+msgid "In Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:237
+#, php-format
+msgid "Added on: %s"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:256
+msgid "Move"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:276
+msgid "Move to another list &rsaquo;"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:286
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:306
+msgid "No products added to the wishlist"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:93
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:121
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart.php:55 woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:88
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:139
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:140
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:146
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:97
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:57
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:57
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:33
+msgid "Qty:"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:44
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:45
+#: woocommerce/myaccount/form-login.php:80
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:49
+#: woocommerce/myaccount/form-login.php:93
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:60
+msgid "Reset Password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:66
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:69
+msgid "Don't have an Account"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:70
+msgid "Create One"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:87
+msgid "Email Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:97
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:105
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:108
+msgid "Have an account?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:109
+msgid "Sign In"
+msgstr ""
+
+#: woocommerce/single-product/related.php:31
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/related.php:36
+msgid "Shop"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "Upsells"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:28
+msgid "You Might Like"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:44
+msgid "Clear"
+msgstr ""

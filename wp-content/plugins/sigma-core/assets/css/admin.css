@@ -1,0 +1,17 @@
+/* Team table */
+table.team-social-icon-table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+.team-social-icon-table td, .team-social-icon-table th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.team-social-icon-table tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.team-table-row-add.button {
+	margin-top: 1rem;
+}

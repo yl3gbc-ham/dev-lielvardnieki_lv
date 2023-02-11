@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bundle name="Gautama">
+
+	<domain name="Gautama">
+
+    <case name="Gautama" slug="gautama">
+
+		<source>
+
+			<directory>.</directory>
+
+		</source>
+
+		<target>
+
+			<directory>languages</directory>
+
+		</target>
+
+		<template>
+
+			<file>languages/gautama.pot</file>
+
+		</template>
+
+    </case>
+
+  </domain>
+
+</bundle>
+

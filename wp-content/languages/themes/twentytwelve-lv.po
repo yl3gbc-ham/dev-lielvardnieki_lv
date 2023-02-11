@@ -1,0 +1,509 @@
+# Translation of Themes - Twenty Twelve in Latvian
+# This file is distributed under the same license as the Themes - Twenty Twelve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-02 09:42:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= 19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-rc.2\n"
+"Language: lv\n"
+"Project-Id-Version: Themes - Twenty Twelve\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "WordPress 2012 ir pilnībā atsaucīga tēma, kas izmantojot adaptīva dizaina principus, izskatās lieliski jebkura izmēra ierīcē. Funkcijas ietver priekšējās lapas veidni ar savām logdaļām, displeja fontu izvēli, dažādus ziņu stila formātus, un veidni vienas slejas lapai. Lietojiet to izmantojot pielāgotu izvēlni, galvenes attēlu un fonu."
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+#, gp-priority: high
+msgid "Twenty Twelve"
+msgstr "Twenty Twelve"
+
+#: inc/block-patterns.php:106
+#, gp-priority: normal
+msgid "It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth."
+msgstr "Tā ir paradismātiska valsts, kurā mutē lido grauzdētas teikumu daļas. Pat visvarenais Rādītājs nekontrolē aklos tekstus, tā ir gandrīz neortogrāfiska dzīve, tomēr kādu dienu neliela akla teksta rindiņa ar vārdu Lorem Ipsum nolēma aizbraukt uz tālo gramatikas pasauli. Tālu tālu, aiz vārda kalni, tālu no valstīm Vokalia un Consonantia, dzīvo aklie teksti. Atdalīti viņi dzīvo Bookmarksgrove tieši pie Semantikas krasta, liela valodu okeāna. Pie viņu vietas tek neliela upīte ar nosaukumu Duden un apgādā to ar nepieciešamajām regeliālijām. Tā ir paradismātiska valsts, kurā mutē lido grauzdētas teikumu daļas."
+
+#: inc/block-patterns.php:103
+#, gp-priority: normal
+msgid "The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&#8217;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then."
+msgstr "Lielais Oksmoks ieteica viņai to nedarīt, jo bija tūkstošiem sliktu komatu, mežonīgu jautājuma zīmju un viltīgu semikolu, bet mazais aklais teksts neklausījās. Viņš iesaiņoja septiņas versalias, ielika iniciāļus jostā un devās ceļā. Kad viņš sasniedza Italic kalnu pirmos pakalnus, viņš pameta pēdējo skatu atpakaļ uz savas dzimtās pilsētas Bookmarksgrove panorāmu, Alphabet Village virsrakstu un viņas pašas ceļa, Line Lane, apakšlīniju. Tad pār viņa vaigu pārskrēja nožēlojams retorisks jautājums."
+
+#: inc/block-patterns.php:100
+#, gp-priority: normal
+msgid "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth."
+msgstr "Tālu tālu, aiz vārda kalni, tālu no valstīm Vokalia un Consonantia, dzīvo aklie teksti. Atdalīti viņi dzīvo Bookmarksgrove tieši pie Semantikas krasta, liela valodu okeāna. Pie viņu vietas tek neliela upīte ar nosaukumu Duden un apgādā to ar nepieciešamajām regeliālijām. Tā ir paradismātiska valsts, kurā mutē lido grauzdētas teikumu daļas."
+
+#: inc/block-patterns.php:89
+#, gp-priority: normal
+msgid "Left-aligned Image and Paragraph"
+msgstr "Pa kreisi līdzināts attēls un rindkopa"
+
+#: inc/block-patterns.php:80
+#, gp-priority: normal
+msgid "—  Albert Einstein"
+msgstr "- Alberts Einšteins"
+
+#: inc/block-patterns.php:78
+#, gp-priority: normal
+msgid "\"Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social eznvironment. Most people are even incapable of forming such opinions.\""
+msgstr "\"Reti kurš spēj mierīgi paust uzskatus, kas atšķiras no viņu sociālās vides aizspriedumiem. Lielākā daļa cilvēku pat nespēj veidot tādus uzskatus.\""
+
+#: inc/block-patterns.php:74
+#, gp-priority: normal
+msgid "Left-aligned Large Quote"
+msgstr "Lielais citāts līdzināts pa kreisi"
+
+#: inc/block-patterns.php:48 inc/block-patterns.php:95
+#, gp-priority: normal
+msgid "Close up of a yellow leaf."
+msgstr "Dzeltenas lapas tuvplāns."
+
+#: inc/block-patterns.php:43 inc/block-patterns.php:54
+#: inc/block-patterns.php:62
+#, gp-priority: normal
+msgid "Close up of a yellow and green leaf."
+msgstr "Dzeltenas un zaļas lapas tuvplāns."
+
+#: inc/block-patterns.php:33
+#, gp-priority: normal
+msgid "Floating Images Gallery"
+msgstr "Peldošo attēlu galerija"
+
+#: functions.php:459
+#, gp-priority: normal
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "Jūsu komentārs gaida pārskatīšanu. Šis ir priekšskatījums; jūsu komentārs būs redzams pēc tā apstiprināšanas."
+
+#. translators: %s: The post title.
+#: comments.php:35
+#, gp-priority: normal
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Viena doma par „%s”"
+
+#: functions.php:94
+#, gp-priority: normal
+msgid "White"
+msgstr "Balts"
+
+#: functions.php:89
+#, gp-priority: normal
+msgid "Light Gray"
+msgstr "Gaiši pelēks"
+
+#: functions.php:84
+#, gp-priority: normal
+msgid "Medium Gray"
+msgstr "Vidēji pelēks"
+
+#: functions.php:79
+#, gp-priority: normal
+msgid "Dark Gray"
+msgstr "Tumši pelēks"
+
+#: functions.php:74
+#, gp-priority: normal
+msgid "Blue"
+msgstr "Zils"
+
+#. Template Name of the theme
+#, gp-priority: normal
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Pilna platuma lapas šablons, bez sānjoslas"
+
+#. Template Name of the theme
+#, gp-priority: normal
+msgid "Front Page Template"
+msgstr "Sākumlapas šablons"
+
+#. translators: %s: Tag title.
+#: tag.php:24
+#, gp-priority: normal
+msgid "Tag Archives: %s"
+msgstr "Birku arhīvi: %s"
+
+#: single.php:25
+#, gp-priority: normal
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:24
+#, gp-priority: normal
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:46
+#, gp-priority: normal
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Atvainojiet, bet nekas neatbilst Jūsu meklēšanas kritērijiem. Mēģiniet vēlreiz ar citiem atslēgas vārdiem."
+
+#. translators: %s: Search query.
+#: search.php:21
+#, gp-priority: normal
+msgid "Search Results for: %s"
+msgstr "Meklēšanas rezultāti: %s"
+
+#. translators: %s: Post editor URL.
+#: index.php:49
+#, gp-priority: normal
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Esiet gatavs publicēt savu pirmo rakstu? <a href=\"%s\">Sāciet šeit</a>."
+
+#: index.php:42
+#, gp-priority: normal
+msgid "No posts to display"
+msgstr "Nav rakstu, ko rādīt"
+
+#: image.php:47
+#, gp-priority: normal
+msgid "Next &rarr;"
+msgstr "Nākamais &rarr;"
+
+#: image.php:46
+#, gp-priority: normal
+msgid "&larr; Previous"
+msgstr "&larr; Iepriekšējais"
+
+#. translators: 1: Date, 2: Date, 3: Attachment URL, 4: Image width in pixels,
+#. 5: Image height in pixels, 6: Post parent permalink, 7: Post parent title,
+#. 8: Post parent title.
+#: image.php:31
+#, gp-priority: normal
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Go to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Publicēts </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> plkst. <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &reizes; %5$s</a> <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: header.php:45
+#, gp-priority: normal
+msgid "Skip to content"
+msgstr "Doties uz saturu"
+
+#: header.php:44
+#, gp-priority: normal
+msgid "Menu"
+msgstr "Izvēlne"
+
+#. translators: 3: Date, 4: Author display name.
+#: functions.php:535
+#, gp-priority: normal
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Šo ierakstu pievienoja %3$s<span class=\"by-author\"> %4$s</span>."
+
+#. translators: 1: Category name, 3: Date, 4: Author display name.
+#: functions.php:532
+#, gp-priority: normal
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Šis ieraksts tika pievienots %1$s %3$s<span class=\"by-author\"> %4$s</span>."
+
+#. translators: 1: Category name, 2: Tag name, 3: Date, 4: Author display name.
+#: functions.php:529
+#, gp-priority: normal
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Šis ieraksts tika pievienots %1$s un ir atzīmēts %2$s %3$s<span class=\"by-author\"> autors %4$s</span>."
+
+#. translators: %s: Author display name.
+#: functions.php:523
+#, gp-priority: normal
+msgid "View all posts by %s"
+msgstr "Skatīt visus autora %s rakstus"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:506 functions.php:509
+#, gp-priority: normal
+msgid ", "
+msgstr ", "
+
+#: functions.php:478
+#, gp-priority: normal
+msgid "Reply"
+msgstr "Atbildēt"
+
+#: functions.php:457
+#, gp-priority: normal
+msgid "Your comment is awaiting moderation."
+msgstr "Jūsu komentārs gaida pārskatīšanu."
+
+#. translators: 1: Date, 2: Time.
+#: functions.php:449
+#, gp-priority: normal
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: functions.php:442
+#, gp-priority: normal
+msgid "Post author"
+msgstr "Raksta autors"
+
+#: functions.php:426
+#, gp-priority: normal
+msgid "(Edit)"
+msgstr "(Labot)"
+
+#: functions.php:426
+#, gp-priority: normal
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:400
+#, gp-priority: normal
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Jaunāki ieraksti <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:399
+#, gp-priority: normal
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Vecāki ieraksti"
+
+#: functions.php:398 single.php:23
+#, gp-priority: normal
+msgid "Post navigation"
+msgstr "Rakstu navigācija"
+
+#: functions.php:375
+#, gp-priority: normal
+msgid "Second Front Page Widget Area"
+msgstr "Otrā sākumlapas logdaļu vieta"
+
+#: functions.php:365 functions.php:377
+#, gp-priority: normal
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "Ir redzams, kad izmanto sākumlapas veidni ar uzstādītu statisku lapu"
+
+#: functions.php:363
+#, gp-priority: normal
+msgid "First Front Page Widget Area"
+msgstr "Pirmā sākumlapas logdaļu vieta"
+
+#: functions.php:353
+#, gp-priority: normal
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "Ir redzams rakstos un lapās, izņemot sākumlapā, kurai ir savas logdaļas."
+
+#: functions.php:351
+#, gp-priority: normal
+msgid "Main Sidebar"
+msgstr "Pamata sānu josla"
+
+#. translators: %s: Page number.
+#: functions.php:319
+#, gp-priority: normal
+msgid "Page %s"
+msgstr "Lapa %s"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:164
+#, gp-priority: normal
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:157
+#, gp-priority: normal
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:108
+#, gp-priority: normal
+msgid "Primary Menu"
+msgstr "Galvenā izvēlne"
+
+#. translators: %s: WordPress
+#: footer.php:24
+#, gp-priority: normal
+msgid "Proudly powered by %s"
+msgstr "Lepni darbina %s"
+
+#: footer.php:21
+#, gp-priority: normal
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantiskā Personīgo Publikāciju Platforma"
+
+#. translators: %s: Author display name.
+#: content.php:85
+#, gp-priority: normal
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Rādīt visus %s ierakstus <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:16
+#, gp-priority: normal
+msgid "Featured post"
+msgstr "Izcelts raksts"
+
+#: content-page.php:24 content.php:50 image.php:124
+#, gp-priority: normal
+msgid "Pages:"
+msgstr "Lapas:"
+
+#: content-none.php:17 index.php:63
+#, gp-priority: normal
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Atvainojiet, bet rezultāti netika atrasti. Iespējams meklēšana palīdzēs."
+
+#: content-none.php:13 index.php:59 search.php:42
+#, gp-priority: normal
+msgid "Nothing Found"
+msgstr "Nekas nav atrasts"
+
+#: content-link.php:15
+#, gp-priority: normal
+msgid "Link"
+msgstr "Saite"
+
+#: content-aside.php:29 content-image.php:26 content-link.php:27
+#: content-page.php:31 content-quote.php:26 content-status.php:43
+#: content.php:60 functions.php:469 image.php:42
+#, gp-priority: normal
+msgid "Edit"
+msgstr "Labot"
+
+#: content-aside.php:26 content-image.php:23 content-link.php:24
+#: content-quote.php:23 content-status.php:40 content.php:35
+#, gp-priority: normal
+msgid "% Replies"
+msgstr "% atbildes"
+
+#: content-aside.php:26 content-image.php:23 content-link.php:24
+#: content-quote.php:23 content-status.php:40 content.php:35
+#, gp-priority: normal
+msgid "1 Reply"
+msgstr "1 atbilde"
+
+#: content-aside.php:26 content-image.php:23 content-link.php:24
+#: content-quote.php:23 content-status.php:40 content.php:35
+#, gp-priority: normal
+msgid "Leave a reply"
+msgstr "Atbildēt"
+
+#. translators: %s: Post title.
+#: content-aside.php:11 content-link.php:11 content-quote.php:11
+#: content-status.php:11
+#, gp-priority: normal
+msgid "Permalink to %s"
+msgstr "Pastāvīgā saite %s"
+
+#: content-aside.php:18 content-image.php:13 content-link.php:17
+#: content-quote.php:16 content-status.php:34 content.php:46
+#, gp-priority: normal
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Turpiniet lasīt <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:75
+#, gp-priority: normal
+msgid "Comments are closed."
+msgstr "Komentāri ir slēgti."
+
+#: comments.php:64
+#, gp-priority: normal
+msgid "Newer Comments &rarr;"
+msgstr "Jaunāki komentāri &rarr;"
+
+#: comments.php:63
+#, gp-priority: normal
+msgid "&larr; Older Comments"
+msgstr "&larr; Vecāki komentāri"
+
+#: comments.php:62
+#, gp-priority: normal
+msgid "Comment navigation"
+msgstr "Komentāru navigācija"
+
+#. translators: 1: The number of comments, 2: The post title.
+#: comments.php:41
+#, gp-priority: normal
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s komentārs par &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s komentāri par &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s komentāru par &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Category title.
+#: category.php:24
+#, gp-priority: normal
+msgid "Category Archives: %s"
+msgstr "Kategoriju arhīvs: %s"
+
+#. translators: Author display name.
+#. translators: %s: Author display name.
+#: author.php:74 content.php:77
+#, gp-priority: normal
+msgid "About %s"
+msgstr "Par %s"
+
+#. translators: Author display name.
+#: author.php:36
+#, gp-priority: normal
+msgid "Author Archives: %s"
+msgstr "Autora arhīvs: %s"
+
+#: archive.php:39
+#, gp-priority: normal
+msgid "Archives"
+msgstr "Arhīvi"
+
+#. translators: %s: Date.
+#: archive.php:37
+#, gp-priority: normal
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:37
+#, gp-priority: normal
+msgid "Yearly Archives: %s"
+msgstr "Gadu arhīvi: %s"
+
+#. translators: %s: Date.
+#: archive.php:34
+#, gp-priority: normal
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:34
+#, gp-priority: normal
+msgid "Monthly Archives: %s"
+msgstr "Mēnešu arhīvi: %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+#, gp-priority: normal
+msgid "Daily Archives: %s"
+msgstr "Dienu arhīvi: %s"
+
+#: 404.php:21
+#, gp-priority: normal
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Izskatās, ka mēs nevaram atrast to ko meklējat. Iespējams meklēšana var palīdzēt."
+
+#: 404.php:17
+#, gp-priority: normal
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Tas ir nedaudz mulsinoši, vai ne?"
+
+#. Author URI of the theme
+#: footer.php:21
+#, gp-priority: low
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "the WordPress team"
+msgstr "WordPress komanda"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://wordpress.org/themes/twentytwelve/"
+msgstr "https://wordpress.org/themes/twentytwelve/"

@@ -1,0 +1,177 @@
+.testimonial-box {
+  background-color: #fff;
+  text-align: center;
+  padding: 40px;
+  -webkit-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+  margin-bottom: 40px;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .testimonial-box {
+    padding: 30px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .testimonial-box {
+    padding: 40px;
+    font-size: 14px;
+  }
+}
+
+.testimonial-box .client-img {
+  max-width: 150px;
+  max-height: 150px;
+  margin: auto;
+  position: relative;
+}
+
+.testimonial-box .client-img img {
+  max-width: 150px;
+  max-height: 150px;
+  border-radius: 50%;
+}
+
+.testimonial-box .client-img .check {
+  position: absolute;
+  right: 0;
+  top: 0;
+  border: 4px solid #fff;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: #d6a77b;
+  text-align: center;
+  line-height: 50px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.testimonial-box h3 {
+  font-size: 30px;
+  margin-bottom: 15px;
+  margin-top: 35px;
+  letter-spacing: -1px;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .testimonial-box h3 {
+    font-size: 26px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .testimonial-box h3 {
+    font-size: 22px;
+  }
+}
+
+.testimonial-box .clinet-post {
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #d6a77b;
+  margin-bottom: 30px;
+  letter-spacing: 1px;
+}
+.testimonial-box .clinet-post + p{
+  margin: 20px 0 0;
+  font-size: 14px;
+}
+
+.testimonial-box .sigma_testimonial-rating{
+  margin-top: 20px;
+}
+.testimonial-box .sigma_testimonial-rating i{
+  color: #d6a77b;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .testimonial-box .clinet-post {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .testimonial-box .clinet-post {
+    font-size: 12px;
+  }
+}
+
+.testimonial-box:hover {
+  -webkit-box-shadow: 0px 14px 24px 0px rgba(190, 173, 142, 0.2);
+          box-shadow: 0px 14px 24px 0px rgba(190, 173, 142, 0.2);
+}
+.testimonial-slider ul.slick-dots{
+  margin-top: 30px;
+}
+.testimonial-slider ul.slick-dots li {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.testimonial-slider ul.slick-dots li button {
+  font-size: 0;
+  border: 0;
+  background-color: #fff;
+  width: 16px;
+  height: 4px;
+  margin: 0 5px;
+  -webkit-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+}
+
+.testimonial-slider ul.slick-dots li.slick-active button {
+  width: 26px;
+  background-color: #d6a77b;
+}
+
+/* testimonial style 2 */
+.testimonials-style-2 .testimonial-box,
+.testimonials-style-2 .testimonial-box.slick-slide {
+    position: relative;
+    background-color: #fff;
+    padding: 60px 30px 30px;
+    margin-top: 45px;
+    border: 2px solid #efefef;
+    box-shadow: none;
+    margin-bottom: 30px;
+}
+.testimonials-style-2 .testimonial-box .client-img {
+    position: absolute;
+    margin-right: 0;
+    width: 70px;
+    top: -45px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    box-shadow: 0 3px 12px rgba(0,0,0,.1);
+}
+.testimonials-style-2 .testimonial-box .client-img img {
+    width: 100%;
+    border-radius: 50%;
+}
+.testimonials-style-2 .testimonial-box .testimonial-content p {
+    margin-bottom: 20px;
+}
+.testimonials-style-2 .testimonial-box .testimonial-content,
+.testimonials-style-2 .testimonial-box .testimonial-footer {
+    text-align: left;
+}
+.testimonials-style-2 .testimonial-box .testimonial-footer .testimonial-footer-meta h5 {
+    font-weight: 700;
+    margin-bottom: 0;
+    font-size: 15px;
+    color: #d6a77b;
+}
+.testimonials-style-2 .testimonial-box .testimonial-footer .testimonial-footer-meta span {
+    color: #777;
+    font-size: 14px;
+    text-transform: capitalize;
+    letter-spacing: normal;
+    font-weight: 400;
+}
+.testimonials-style-2 .testimonial-box .sigma_testimonial-rating {
+    margin-top: 0;
+}

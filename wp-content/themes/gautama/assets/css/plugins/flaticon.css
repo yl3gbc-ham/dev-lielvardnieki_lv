@@ -1,0 +1,300 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../../fonts/fonts/flaticon.eot");
+     src: url("../../fonts/fonts/flaticon.eot?#iefix") format("embedded-opentype"),
+          url("../../fonts/fonts/flaticon.woff2") format("woff2"),
+          url("../../fonts/fonts/flaticon.woff") format("woff"),
+          url("../../fonts/fonts/flaticon.ttf") format("truetype"),
+          url("../../fonts/fonts/flaticon.svg#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-3d-modeling:before {
+    content: "\f101";
+}
+.flaticon-architecture:before {
+    content: "\f102";
+}
+.flaticon-armchair:before {
+    content: "\f103";
+}
+.flaticon-award:before {
+    content: "\f104";
+}
+.flaticon-bar-chart:before {
+    content: "\f105";
+}
+.flaticon-bell:before {
+    content: "\f106";
+}
+.flaticon-blueprint:before {
+    content: "\f107";
+}
+.flaticon-box:before {
+    content: "\f108";
+}
+.flaticon-briefcase-1:before {
+    content: "\f109";
+}
+.flaticon-briefcase:before {
+    content: "\f10a";
+}
+.flaticon-buddha:before {
+    content: "\f10b";
+}
+.flaticon-buddhism:before {
+    content: "\f10c";
+}
+.flaticon-buddhist-1:before {
+    content: "\f10d";
+}
+.flaticon-buddhist-2:before {
+    content: "\f10e";
+}
+.flaticon-buddhist:before {
+    content: "\f10f";
+}
+.flaticon-building-1:before {
+    content: "\f110";
+}
+.flaticon-building:before {
+    content: "\f111";
+}
+.flaticon-buildings:before {
+    content: "\f112";
+}
+.flaticon-call:before {
+    content: "\f113";
+}
+.flaticon-candles:before {
+    content: "\f114";
+}
+.flaticon-car-insurance:before {
+    content: "\f115";
+}
+.flaticon-consult:before {
+    content: "\f116";
+}
+.flaticon-consulting:before {
+    content: "\f117";
+}
+.flaticon-countertop:before {
+    content: "\f118";
+}
+.flaticon-credit-card:before {
+    content: "\f119";
+}
+.flaticon-customer-support:before {
+    content: "\f11a";
+}
+.flaticon-customers:before {
+    content: "\f11b";
+}
+.flaticon-decorating:before {
+    content: "\f11c";
+}
+.flaticon-diamond:before {
+    content: "\f11d";
+}
+.flaticon-dishwasher:before {
+    content: "\f11e";
+}
+.flaticon-email:before {
+    content: "\f11f";
+}
+.flaticon-engineer-1:before {
+    content: "\f120";
+}
+.flaticon-engineer-2:before {
+    content: "\f121";
+}
+.flaticon-engineer-3:before {
+    content: "\f122";
+}
+.flaticon-engineer:before {
+    content: "\f123";
+}
+.flaticon-facebook:before {
+    content: "\f124";
+}
+.flaticon-floor-plan:before {
+    content: "\f125";
+}
+.flaticon-furnitures:before {
+    content: "\f126";
+}
+.flaticon-headphones:before {
+    content: "\f127";
+}
+.flaticon-health-insurance-1:before {
+    content: "\f128";
+}
+.flaticon-health-insurance:before {
+    content: "\f129";
+}
+.flaticon-heart-1:before {
+    content: "\f12a";
+}
+.flaticon-heart-2:before {
+    content: "\f12b";
+}
+.flaticon-heart:before {
+    content: "\f12c";
+}
+.flaticon-home-1:before {
+    content: "\f12d";
+}
+.flaticon-home-2:before {
+    content: "\f12e";
+}
+.flaticon-home-3:before {
+    content: "\f12f";
+}
+.flaticon-home-4:before {
+    content: "\f130";
+}
+.flaticon-home-insurance-1:before {
+    content: "\f131";
+}
+.flaticon-home-insurance:before {
+    content: "\f132";
+}
+.flaticon-home:before {
+    content: "\f133";
+}
+.flaticon-house-1:before {
+    content: "\f134";
+}
+.flaticon-house-2:before {
+    content: "\f135";
+}
+.flaticon-house:before {
+    content: "\f136";
+}
+.flaticon-instagram:before {
+    content: "\f137";
+}
+.flaticon-insurance:before {
+    content: "\f138";
+}
+.flaticon-interior-design:before {
+    content: "\f139";
+}
+.flaticon-kitchen:before {
+    content: "\f13a";
+}
+.flaticon-life-insurance:before {
+    content: "\f13b";
+}
+.flaticon-like:before {
+    content: "\f13c";
+}
+.flaticon-living-room:before {
+    content: "\f13d";
+}
+.flaticon-lotus:before {
+    content: "\f13e";
+}
+.flaticon-magnifying-glass:before {
+    content: "\f13f";
+}
+.flaticon-medal:before {
+    content: "\f140";
+}
+.flaticon-medical-insurance-1:before {
+    content: "\f141";
+}
+.flaticon-medical-insurance-2:before {
+    content: "\f142";
+}
+.flaticon-medical-insurance:before {
+    content: "\f143";
+}
+.flaticon-message:before {
+    content: "\f144";
+}
+.flaticon-money:before {
+    content: "\f145";
+}
+.flaticon-offer:before {
+    content: "\f146";
+}
+.flaticon-package:before {
+    content: "\f147";
+}
+.flaticon-paint-roller:before {
+    content: "\f148";
+}
+.flaticon-paper-plane:before {
+    content: "\f149";
+}
+.flaticon-plan:before {
+    content: "\f14a";
+}
+.flaticon-pray:before {
+    content: "\f14b";
+}
+.flaticon-reload:before {
+    content: "\f14c";
+}
+.flaticon-right-quote:before {
+    content: "\f14d";
+}
+.flaticon-search-1:before {
+    content: "\f14e";
+}
+.flaticon-search:before {
+    content: "\f14f";
+}
+.flaticon-security:before {
+    content: "\f150";
+}
+.flaticon-shopping-cart:before {
+    content: "\f151";
+}
+.flaticon-sketch:before {
+    content: "\f152";
+}
+.flaticon-speed:before {
+    content: "\f153";
+}
+.flaticon-steering-wheel:before {
+    content: "\f154";
+}
+.flaticon-tap:before {
+    content: "\f155";
+}
+.flaticon-target:before {
+    content: "\f156";
+}
+.flaticon-technical-support-1:before {
+    content: "\f157";
+}
+.flaticon-technical-support:before {
+    content: "\f158";
+}
+.flaticon-telephone:before {
+    content: "\f159";
+}
+.flaticon-trophy:before {
+    content: "\f15a";
+}
+.flaticon-truck:before {
+    content: "\f15b";
+}
+.flaticon-twitter:before {
+    content: "\f15c";
+}
+.flaticon-worker:before {
+    content: "\f15d";
+}

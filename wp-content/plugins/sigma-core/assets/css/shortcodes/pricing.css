@@ -1,0 +1,163 @@
+.pricing-style-1 .sigma_pricing {
+    background-color: #fff;
+    padding: 90px 30px 30px;
+    position: relative;
+    border: 2px solid #efefef;
+    text-align: center;
+    width: calc(100% - 40px);
+    margin: 60px auto 30px;
+}
+.pricing-style-1 .sigma_pricing:before {
+    content: '';
+    position: absolute;
+    left: -20px;
+    top: 20px;
+    width: calc(100% + 40px);
+    height: 100%;
+    z-index: -1;
+    border: 10px solid #efefef;
+}
+.pricing-style-1 .sigma_pricing .sigma_pricing-price {
+    margin: 0;
+    position: absolute;
+    top: -60px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 120px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border: 10px solid #fff;
+    box-shadow: 0 3px 12px rgba(0,0,0,.1);
+    background-color: #d6a77b;
+    border-radius: 50%;
+}
+.pricing-style-1 .sigma_pricing .sigma_pricing-price .sigma_pricing-currency {
+    position: relative;
+    top: auto;
+    left: auto;
+    font-size: 30px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 1;
+}
+.pricing-style-1 .sigma_pricing .sigma_pricing-price span {
+    font-size: 14px;
+    color: #fff;
+    margin-top: 5px;
+    font-weight: 600;
+    line-height: 1;
+}
+.pricing-style-1 .sigma_pricing .sigma_pricing-info h5 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.pricing-style-1 .sigma_pricing .sigma_pricing-info h5 + span {
+    font-size: 16px;
+}
+.pricing-style-1 .sigma_pricing .list-style-none {
+    list-style: none;
+    margin: 20px 0 0;
+    padding: 20px 0 0;
+    border-top: 1px solid #efefef;
+    text-align: left;
+}
+.pricing-style-1 .sigma_pricing .list-style-none li i {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: inline-flex;
+    border: 1px solid #efefef;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+}
+.pricing-style-1 .sigma_pricing .list-style-none li {
+    margin-top: 10px;
+}
+.pricing-style-1 .sigma_pricing .list-style-none li:last-child{
+  text-align: center;
+}
+.pricing-style-1 .sigma_pricing .list-style-none .sigma_btn-custom {
+    margin-top: 20px;
+}
+.pricing-style-1 .sigma_pricing.hot-plan {
+    background: #1c1c1c;
+}
+.pricing-style-1 .sigma_pricing.hot-plan .list-style-none {
+    border-top-color: rgba(255,255,255,.1);
+}
+.pricing-style-1 .sigma_pricing.hot-plan h5,
+.pricing-style-1 .sigma_pricing.hot-plan span,
+.pricing-style-1 .sigma_pricing.hot-plan .list-style-none li,
+.pricing-style-1 .sigma_pricing.hot-plan .list-style-none i {
+    color: #fff;
+}
+.pricing-style-1 .sigma_pricing.hot-plan .list-style-none .sigma_btn-custom {
+    background: #d6a77b;
+    color: #fff;
+    border-color: #d6a77b;
+}
+.pricing-style-1 .sigma_pricing.hot-plan .list-style-none .sigma_btn-custom:before {
+    background: #0000003b;
+}
+
+/* Style 2 */
+.sigma_pricing_wrapper.pricing-style-2 .sigma_pricing {
+    padding: 26px 20px 44px 20px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sigma_pricing_wrapper.pricing-style-2 .sigma_pricing-info .icon {
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: #d6a77b;
+}
+.sigma_pricing_wrapper.pricing-style-2 .sigma_pricing-info h5 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.sigma_pricing_wrapper.pricing-style-2 .sigma_pricing-info .sigma_pricing-price {
+    position: relative;
+    display: inline-block;
+    line-height: 1;
+}
+.sigma_pricing_wrapper.pricing-style-2 .sigma_pricing-info .sigma_pricing-price .sigma_pricing-currency{
+  position: absolute;
+  top: 0;
+  left: -12px;
+  font-size: 20px;
+  font-weight: 400;
+  color: #d6a77b;
+}
+.sigma_pricing_wrapper.pricing-style-2 .sigma_pricing-info .sigma_pricing-price span {
+  font-size: 48px;
+  font-weight: 700;
+  color: #d6a77b;
+}
+.list-style-none{
+  list-style: none;
+}
+.sigma_pricing_wrapper.pricing-style-2 .sigma_pricing ul {
+    margin: 20px 0;
+}
+.sigma_pricing_wrapper.pricing-style-2 .sigma_pricing ul li + li{
+  margin-top: 10px;
+}
+.sigma_pricing_wrapper.pricing-style-2 .sigma_pricing ul li i{
+  margin-right: 10px;
+}
+.sigma_pricing_wrapper.pricing-style-2 .sigma_pricing ul li .sigma_btn-custom {
+    margin-top: 30px;
+}
+.sigma_pricing_wrapper.pricing-style-2 .sigma_btn-custom.secondary.light{
+  background: transparent;
+}
+.sigma_pricing_wrapper.pricing-style-2 .sigma_btn-custom.secondary.light:before{
+  background: #1c1c1c;
+}

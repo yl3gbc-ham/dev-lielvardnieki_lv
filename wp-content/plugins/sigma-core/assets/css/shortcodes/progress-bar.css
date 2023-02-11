@@ -1,0 +1,127 @@
+/*! Progress Bar */
+.sigma-progress-bar-wrapper {
+	margin-bottom: 45px;
+}
+.sigma-progress-bar-wrapper:last-child{
+    margin-bottom: 0;
+}
+.sigma_progress_bar_wrapper .sigma-progress-bar {
+	width: 100%;
+    height: 5px;
+    background-color: #ddd;
+        display: flex;
+    align-items: center;
+}
+.sigma-progress-bar-title-wrapper{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 15px;
+}
+.sigma_progress_bar_wrapper .sigma-progress-bar-inner {
+	width: 0%;
+	height: 15px;
+	background-color: #d6a77b;
+	position: relative;
+    margin-left: 0;
+}
+.sigma-progress-bar-title {
+	font-size: 18px;
+	font-weight: 600;
+	margin-bottom: 0;
+	display: inline-block;
+	color: #222222;
+}
+.sigma-progress-bar-value {
+	font-weight: 600;
+	color: #222222;
+}
+
+.progress-bar-stripes .sigma-progress-bar-inner{
+	background-image: linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+	background-size: 1rem 1rem;
+}
+
+@keyframes progress-bar-stripes{
+	from{
+		background-position: 1rem 0;
+	}
+	to{
+		background-position:0 0;
+	}
+}
+.progress-bar-stripes.progress-bar-animated .sigma-progress-bar-inner{
+	animation: progress-bar-stripes 1s linear infinite;
+}
+
+.sigma_progress_bar_wrapper.progress-skew .sigma-progress-bar,
+.sigma_progress_bar_wrapper.progress-skew .sigma-progress-bar-inner{
+	transform: skew(-25deg);
+}
+
+.sigma_progress_bar_wrapper.progress-round .sigma-progress-bar,
+.sigma_progress_bar_wrapper.progress-round .sigma-progress-bar-inner{
+	border-radius: 50px;
+}
+
+.sigma_progress_bar_wrapper.progress-square .sigma-progress-bar,
+.sigma_progress_bar_wrapper.progress-square .sigma-progress-bar-inner{
+	border-radius: 0;
+}
+
+
+/*rounded-bar*/
+.rounded-bar .chart{
+	position: relative;
+    min-width: 90px;
+    min-height: 90px;
+    width: 90px;
+}
+.rounded-bar .chart canvas{
+	    position: absolute;
+    left: 0;
+    top: 0;
+}
+.rounded-bar .chart .icon{
+	font-size: 30px;
+	color: #222222;
+}
+.rounded-bar .chart .icon + h4{
+	margin-top: 10px;
+}
+.rounded-bar .chart .chart-content{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+/* progress bar style 3 */
+.progress-bar-style-3 .sigma-progress-bar-title-wrapper {
+    margin-bottom: 0;
+}
+.progress-bar-style-3 .sigma-progress-bar-inner{
+	position:relative;
+}
+.progress-bar-style-3 .sigma-progress-bar-value {
+    position: absolute;
+    top: -25px;
+		right: -30px;
+}
+.progress-bar-style-3 .sigma-progress-bar-title {
+    font-size: 14px;
+    margin: 0 0 5px;
+    font-weight: 800;
+}
+.progress-bar-style-3 .sigma-progress-bar-inner span:first-child {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    width: 5px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: #d6a77b;
+    transform: translateY(-50%);
+}

@@ -1,0 +1,99 @@
+
+/*=======  Gallery  =======*/
+.gallery-loop {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: 1fr;
+      grid-template-rows: 1fr;
+  -ms-grid-columns: (1fr)[2];
+      grid-template-columns: repeat(2, 1fr);
+  grid-gap: 30px;
+}
+
+@media (max-width: 767px) {
+  .gallery-loop {
+    grid-gap: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .gallery-loop {
+    grid-gap: 10px;
+  }
+}
+
+.gallery-loop .single-gallery-image {
+  overflow: hidden;
+}
+
+.gallery-loop .single-gallery-image img {
+  -webkit-transition: all 0.4s ease-out 0s;
+  transition: all 0.4s ease-out 0s;
+}
+
+.gallery-loop .single-gallery-image:hover img {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+.gallery-loop .single-gallery-image a img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-fit: cover;
+}
+
+.gallery-loop .single-gallery-image a {
+    display: block;
+    height: 100%;
+}
+
+.gallery-loop .single-gallery-image:nth-child(3),
+.gallery-loop .single-gallery-image:nth-child(6),
+.gallery-loop .single-gallery-image:nth-child(9),
+.gallery-loop .single-gallery-image:nth-child(12),
+.gallery-loop .single-gallery-image:nth-child(15),
+.gallery-loop .single-gallery-image:nth-child(18),
+.gallery-loop .single-gallery-image:nth-child(21) {
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 2;
+  grid-column: 1 / 3;
+}
+
+.gallery-loop .single-gallery-image:nth-child(3) {
+  -ms-grid-row: 2;
+  -ms-grid-row-span: 1;
+  grid-row: 2 / 3;
+}
+
+.gallery-loop .single-gallery-image:nth-child(6) {
+  -ms-grid-row: 4;
+  -ms-grid-row-span: 1;
+  grid-row: 4 / 5;
+}
+
+.gallery-loop .single-gallery-image:nth-child(9) {
+  -ms-grid-row: 6;
+  -ms-grid-row-span: 1;
+  grid-row: 6 / 7;
+}
+
+.gallery-loop .single-gallery-image:nth-child(12) {
+  -ms-grid-row: 8;
+  -ms-grid-row-span: 1;
+  grid-row: 8 / 9;
+}
+.gallery-loop .single-gallery-image:nth-child(15) {
+  -ms-grid-row: 10;
+  -ms-grid-row-span: 1;
+  grid-row: 10 / 11;
+}
+.gallery-loop .single-gallery-image:nth-child(18) {
+  -ms-grid-row: 12;
+  -ms-grid-row-span: 1;
+  grid-row: 12 / 13;
+}
+.gallery-loop .single-gallery-image:nth-child(21) {
+  -ms-grid-row: 14;
+  -ms-grid-row-span: 1;
+  grid-row: 14 / 15;
+}
